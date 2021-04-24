@@ -26,4 +26,4 @@ The results of our research are outlined in the [Research Results paper](./Resea
 
 
 ## Credits
-- TTC Data was pulled from https://open.toronto.ca/
+- TTC delay data was retrieved from https://open.toronto.ca/
