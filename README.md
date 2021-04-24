@@ -24,6 +24,8 @@ After formatting public ttc delay data, we copied it into a [PostgreSQL database
 ## Results
 The results of our research are outlined in the [Research Results paper](./Research_Results.pdf) along with a [sample output](./queries-demo.txt) of the queries that were performed to develop the results of our research project. 
 
+You can also view the results we have found for the [worst bus routes in the TTC by number of delays](./worst_bus_routes.csv).
+
 
 ## Credits
 - TTC delay data was retrieved from https://open.toronto.ca/
