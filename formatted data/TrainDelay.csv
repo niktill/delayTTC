@@ -1,0 +1,1873 @@
+1,GREENWOOD STATION,BD,MUSC,Miscellaneous Speed Control
+2,EGLINTON STATION,YU,MUO,Miscellaneous Other
+3,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+4,DUNDAS STATION,YU,TUMVS,Operator Violated Signal
+5,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+6,FINCH STATION,YU,MUSAN,Unsanitary Vehicle
+7,KENNEDY BD STATION,BD,TUO,Transportation Department - Other
+8,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+9,QUEEN STATION,YU,SUUT,Unauthorized at Track Level
+10,VAUGHAN MC STATION,YU,MUATC,ATC Project
+11,VAUGHAN MC STATION,YU,MUATC,ATC Project
+12,EGLINTON STATION,YU,EUOE,Rail Cars & Shops Opr. Error
+13,DAVISVILLE STATION,YU,MUO,Miscellaneous Other
+14,DUNDAS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+15,SHEPPARD WEST STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+16,COXWELL STATION,BD,MUSAN,Unsanitary Vehicle
+17,SHEPPARD WEST STATION,YU,MUATC,ATC Project
+18,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+19,GLENCAIRN STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+20,UNION STATION,YU,SUDP,Disorderly Patron
+21,FINCH STATION,YU,TUSC,Operator Overspeeding
+22,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+23,LAWRENCE WEST STATION,YU,MUATC,ATC Project
+24,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+25,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+26,KING STATION,YU,MUATC,ATC Project
+27,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+28,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+29,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+30,KENNEDY BD STATION,BD,MUO,Miscellaneous Other
+31,GREENWOOD STATION,BD,SUDP,Disorderly Patron
+32,PIONEER VILLAGE STATIO,YU,EUDO,Door Problems - Faulty Equipment
+33,OSSINGTON STATION,BD,SUDP,Disorderly Patron
+34,KENNEDY SRT STATION,SRT,MRTO,Timeout
+35,MCCOWAN STATION,SRT,TRTC,Transit Control Related Problems
+36,CHRISTIE STATION,BD,EUCA,Compressed Air
+37,VICTORIA PARK STATION,BD,TUOS,Operator Overshot Platform
+38,KENNEDY BD STATION,BD,MUO,Miscellaneous Other
+39,WELLESLEY STATION,YU,SUDP,Disorderly Patron
+40,YONGE BD STATION,BD,SUDP,Disorderly Patron
+41,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+42,SHEPPARD STATION,YU,MUPR1,Priority One - Train in Contact With Person
+43,YORK MILLS STATION,YU,PUTOE,T & S Operator Related Problems
+44,SHEPPARD WEST STATION,YU,PUSSW,Track Switch Failure - Signal Related Problem
+45,DAVISVILLE STATION,YU,TUCC,Transit Control Related Problems
+46,LANSDOWNE STATION,BD,TUOS,Operator Overshot Platform
+47,QUEEN STATION,YU,MUATC,ATC Project
+48,ST CLAIR STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+49,FINCH STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+50,LESLIE STATION,SHP,PUOPO,OPTO (COMMS) Train Door Monitoring
+51,BROADVIEW STATION,BD,PUSWZ,Work Zone Problems - Signals
+52,ROSEDALE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+53,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+54,DAVISVILLE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+55,FINCH STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+56,PAPE STATION,BD,SUDP,Disorderly Patron
+57,SHEPPARD-YONGE STATION,SHP,MUSC,Miscellaneous Speed Control
+58,KENNEDY BD STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+59,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+60,ROSEDALE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+61,LAWRENCE WEST STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+62,YORK MILLS STATION,YU,TUMVS,Operator Violated Signal
+63,KENNEDY SRT STATION,SRT,ERCO,Couplers
+64,COLLEGE STATION,YU,PUSNT,Signal Problem - No Trouble
+65,ST CLAIR STATION,YU,MUPLB,Fire/Smoke Plan B - Source TTC
+66,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+67,SPADINA BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+68,COLLEGE STATION,YU,EUSC,Speed Control Equipment  
+69,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+70,QUEEN STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+71,ST CLAIR WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+72,CHESTER STATION,BD,SUDP,Disorderly Patron
+73,BLOOR STATION,YU,SUDP,Disorderly Patron
+74,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+75,KENNEDY BD STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+76,YORK MILLS STATION,YU,SUAP,Assault / Patron Involved
+77,PAPE STATION,BD,SUDP,Disorderly Patron
+78,SPADINA BD STATION,BD,EUME,RC&S Maintenance Error - (Human)
+79,DUNDAS WEST STATION,BD,SUDP,Disorderly Patron
+80,EGLINTON STATION,YU,SUDP,Disorderly Patron
+81,KENNEDY BD STATION,BD,EUDO,Door Problems - Faulty Equipment
+82,SHEPPARD STATION,YU,MUSC,Miscellaneous Speed Control
+83,KEELE STATION,BD,PUTWZ,Work Zone Problems - Track
+84,YONGE BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+85,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+86,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+87,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+88,ROYAL YORK STATION,BD,PUMO,Station Other
+89,FINCH STATION,YU,TUSC,Operator Overspeeding
+90,PAPE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+91,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+92,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+93,SHEPPARD WEST STATION,YU,EUBK,Brakes
+94,WARDEN STATION,BD,SUDP,Disorderly Patron
+95,OLD MILL STATION,BD,TUOS,Operator Overshot Platform
+96,LAWRENCE WEST STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+97,PIONEER VILLAGE STATIO,YU,SUUT,Unauthorized at Track Level
+98,GREENWOOD STATION,BD,PUSTS,Signals - Train Stops
+99,GREENWOOD STATION,BD,PUSTS,Signals - Train Stops
+100,CHRISTIE STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+101,KENNEDY BD STATION,BD,TUMVS,Operator Violated Signal
+102,LAWRENCE WEST STATION,YU,PUSAC,Signals Axle Counter Block Failure
+103,SHERBOURNE STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+104,VICTORIA PARK STATION,BD,MUD,Door Problems - Passenger Related
+105,OSSINGTON STATION,BD,SUO,Passenger Other
+106,KIPLING STATION,BD,SUO,Passenger Other
+107,LAWRENCE EAST STATION,SRT,ERTC,Train Control - VOBC
+108,EGLINTON WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+109,MCCOWAN STATION,SRT,ERTC,Train Control - VOBC
+110,LAWRENCE WEST STATION,YU,PUSAC,Signals Axle Counter Block Failure
+111,SHEPPARD STATION,YU,TUOS,Operator Overshot Platform
+112,SHERBOURNE STATION,BD,SUDP,Disorderly Patron
+113,ISLINGTON STATION,BD,SUDP,Disorderly Patron
+114,COLLEGE STATION,YU,SUDP,Disorderly Patron
+115,LESLIE STATION,SHP,PUEO,#N/A
+116,ROYAL YORK STATION,BD,MUSC,Miscellaneous Speed Control
+117,CHESTER STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+118,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+119,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+120,RUNNYMEDE STATION,BD,TUO,Transportation Department - Other
+121,EGLINTON STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+122,OLD MILL STATION,BD,EUNT,Equipment - No Trouble Found
+123,PAPE STATION,BD,SUUT,Unauthorized at Track Level
+124,CHRISTIE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+125,COXWELL STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+126,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+127,GREENWOOD STATION,BD,MUD,Door Problems - Passenger Related
+128,LANSDOWNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+129,EGLINTON STATION,YU,PUTWZ,Work Zone Problems - Track
+130,SHEPPARD WEST STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+131,SHERBOURNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+132,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+133,EGLINTON STATION,YU,TUO,Transportation Department - Other
+134,EGLINTON STATION,YU,PUSTC,Signals - Track Circuit Problems
+135,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+136,LAWRENCE WEST STATION,YU,EUME,RC&S Maintenance Error - (Human)
+137,FINCH STATION,YU,MUSAN,Unsanitary Vehicle
+138,EGLINTON STATION,YU,TUO,Transportation Department - Other
+139,YONGE BD STATION,BD,SUDP,Disorderly Patron
+140,CHRISTIE STATION,BD,SUDP,Disorderly Patron
+141,EGLINTON STATION,YU,SUDP,Disorderly Patron
+142,FINCH STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+143,YORK MILLS STATION,YU,SUDP,Disorderly Patron
+144,YORK MILLS STATION,YU,EUSC,Speed Control Equipment  
+145,PAPE STATION,BD,SUDP,Disorderly Patron
+146,CHRISTIE STATION,BD,TUMVS,Operator Violated Signal
+147,COLLEGE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+148,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+149,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+150,YORK MILLS STATION,YU,PUSI,Signals or Related Components Failure 
+151,MCCOWAN STATION,SRT,MRCL,Divisional Clerk Related
+152,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+153,ST ANDREW STATION,YU,SUAP,Assault / Patron Involved
+154,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+155,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+156,DAVISVILLE STATION,YU,SUDP,Disorderly Patron
+157,ELLESMERE STATION,SRT,ERDO,Door Problems - Faulty Equipment
+158,EGLINTON STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+159,SHERBOURNE STATION,BD,SUSA,Sexual Assault
+160,WARDEN STATION,BD,PUTIJ,Insulated Joint Related Problem
+161,CASTLE FRANK STATION,BD,SUDP,Disorderly Patron
+162,SPADINA BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+163,CASTLE FRANK STATION,BD,SUDP,Disorderly Patron
+164,FINCH STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+165,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+166,WOODBINE STATION,BD,SUDP,Disorderly Patron
+167,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+168,QUEEN STATION,YU,SUDP,Disorderly Patron
+169,ST CLAIR STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+170,YONGE BD STATION,BD,SUAP,Assault / Patron Involved
+171,SHEPPARD WEST STATION,YU,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+172,FINCH STATION,YU,EUNT,Equipment - No Trouble Found
+173,DAVISVILLE STATION,YU,MUO,Miscellaneous Other
+174,LESLIE STATION,SHP,PUEO,#N/A
+175,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+176,DAVISVILLE STATION,YU,MUSC,Miscellaneous Speed Control
+177,BROADVIEW STATION,BD,MUTD,Training Department Related Delays
+178,RUNNYMEDE STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+179,COXWELL STATION,BD,TUNIP,Operator Not In Position
+180,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+181,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+182,ST GEORGE BD STATION,BD,SUUT,Unauthorized at Track Level
+183,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+184,SHEPPARD STATION,YU,MUSC,Miscellaneous Speed Control
+185,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+186,KIPLING STATION,BD,EUAC,Air Conditioning
+187,PAPE STATION,BD,SUDP,Disorderly Patron
+188,GREENWOOD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+189,CHESTER STATION,BD,TUO,Transportation Department - Other
+190,GLENCAIRN STATION,YU,EUDO,Door Problems - Faulty Equipment
+191,FINCH STATION,YU,MUSAN,Unsanitary Vehicle
+192,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+193,DAVISVILLE STATION,YU,PUSNT,Signal Problem - No Trouble
+194,ROYAL YORK STATION,BD,MUD,Door Problems - Passenger Related
+195,MCCOWAN STATION,SRT,ERDO,Door Problems - Faulty Equipment
+196,SHEPPARD WEST STATION,YU,SUO,Passenger Other
+197,QUEEN'S PARK STATION,YU,MUATC,ATC Project
+198,DONLANDS STATION,BD,TUO,Transportation Department - Other
+199,YONGE BD STATION,BD,MUO,Miscellaneous Other
+200,PAPE STATION,BD,MUO,Miscellaneous Other
+201,VAUGHAN MC STATION,YU,EUDO,Door Problems - Faulty Equipment
+202,KIPLING STATION,BD,MUIE,Injured Employee
+203,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+204,CHRISTIE STATION,BD,EUPI,Propulsion System
+205,OLD MILL STATION,BD,MUSC,Miscellaneous Speed Control
+206,LAWRENCE STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+207,COLLEGE STATION,YU,TUOS,Operator Overshot Platform
+208,GLENCAIRN STATION,YU,EUTL,Trainline System
+209,CHESTER STATION,BD,TUSC,Operator Overspeeding
+210,DUFFERIN STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+211,PAPE STATION,BD,EUTR,Trucks
+212,DON MILLS STATION,SHP,MUTD,Training Department Related Delays
+213,DAVISVILLE STATION,YU,SUO,Passenger Other
+214,FINCH STATION,YU,SUO,Passenger Other
+215,JANE STATION,BD,SUAP,Assault / Patron Involved
+216,KING STATION,YU,MUATC,ATC Project
+217,CHESTER STATION,BD,TUO,Transportation Department - Other
+218,PAPE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+219,FINCH STATION,YU,EUBK,Brakes
+220,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+221,KIPLING STATION,BD,MUSAN,Unsanitary Vehicle
+222,BLOOR STATION,YU,SUDP,Disorderly Patron
+223,KENNEDY BD STATION,BD,TUCC,Transit Control Related Problems
+224,WILSON STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+225,ST ANDREW STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+226,BLOOR STATION,YU,SUDP,Disorderly Patron
+227,SHEPPARD-YONGE STATION,SHP,MUSC,Miscellaneous Speed Control
+228,DOWNSVIEW PARK STATION,YU,MUSC,Miscellaneous Speed Control
+229,LESLIE STATION,SHP,PUEO,#N/A
+230,CHESTER STATION,BD,TUO,Transportation Department - Other
+231,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+232,WARDEN STATION,BD,SUDP,Disorderly Patron
+233,EGLINTON STATION,YU,SUDP,Disorderly Patron
+234,DAVISVILLE STATION,YU,SUDP,Disorderly Patron
+235,KING STATION,YU,SUDP,Disorderly Patron
+236,JANE STATION,BD,TUS,Crew Unable to Maintain Schedule
+237,DUNDAS WEST STATION,BD,TUOS,Operator Overshot Platform
+238,DAVISVILLE STATION,YU,MUDD,Door Problems - Debris Related
+239,ST ANDREW STATION,YU,SUUT,Unauthorized at Track Level
+240,COXWELL STATION,BD,SUDP,Disorderly Patron
+241,PIONEER VILLAGE STATIO,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+242,FINCH STATION,YU,EUSC,Speed Control Equipment  
+243,KENNEDY BD STATION,BD,EUPI,Propulsion System
+244,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+245,WILSON STATION,YU,EUATC,ATC RC&S Equipment
+246,DOWNSVIEW PARK STATION,YU,EUATC,ATC RC&S Equipment
+247,HIGHWAY 407 STATION,YU,EUATC,ATC RC&S Equipment
+248,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+249,ST CLAIR STATION,YU,MUCL,Divisional Clerk Related
+250,DON MILLS STATION,SHP,MUI,Injured or ill Customer (On Train) - Transported
+251,GLENCAIRN STATION,YU,TUOS,Operator Overshot Platform
+252,CHESTER STATION,BD,TUO,Transportation Department - Other
+253,BLOOR STATION,YU,SUDP,Disorderly Patron
+254,YONGE BD STATION,SHP,MUSAN,Unsanitary Vehicle
+255,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+256,KIPLING STATION,BD,SUUT,Unauthorized at Track Level
+257,KENNEDY BD STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+258,GLENCAIRN STATION,YU,MUATC,ATC Project
+259,ROYAL YORK STATION,BD,PUEME,#N/A
+260,ST GEORGE YUS STATION,YU,EUDO,Door Problems - Faulty Equipment
+261,BROADVIEW STATION,BD,PUEWZ,#N/A
+262,ST GEORGE BD STATION,BD,MUDD,Door Problems - Debris Related
+263,HIGH PARK STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+264,SHEPPARD WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+265,KENNEDY BD STATION,BD,TUMVS,Operator Violated Signal
+266,QUEEN STATION,YU,MUATC,ATC Project
+267,EGLINTON STATION,YU,PUSI,Signals or Related Components Failure 
+268,VAUGHAN MC STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+269,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+270,VAUGHAN MC STATION,YU,MUCL,Divisional Clerk Related
+271,ST PATRICK STATION,YU,MUATC,ATC Project
+272,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+273,YONGE BD STATION,BD,SUDP,Disorderly Patron
+274,YORK MILLS STATION,YU,TUMVS,Operator Violated Signal
+275,KENNEDY SRT STATION,SRT,PRSA,Axle Counter Related
+276,CHESTER STATION,BD,TUO,Transportation Department - Other
+277,DUNDAS STATION,YU,TUOS,Operator Overshot Platform
+278,SHERBOURNE STATION,BD,MUDD,Door Problems - Debris Related
+279,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+280,YORK MILLS STATION,YU,MUPLB,Fire/Smoke Plan B - Source TTC
+281,YONGE BD STATION,BD,SUDP,Disorderly Patron
+282,GLENCAIRN STATION,YU,MUDD,Door Problems - Debris Related
+283,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+284,UNION STATION,YU,MUATC,ATC Project
+285,NORTH YORK CTR STATION,YU,TUMVS,Operator Violated Signal
+286,SPADINA YUS STATION,YU,MUATC,ATC Project
+287,SHEPPARD WEST STATION,YU,MUATC,ATC Project
+288,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+289,JANE STATION,BD,SUDP,Disorderly Patron
+290,CHESTER STATION,BD,TUO,Transportation Department - Other
+291,MAIN STREET STATION,BD,SUDP,Disorderly Patron
+292,SUMMERHILL STATION,YU,SUUT,Unauthorized at Track Level
+293,EGLINTON STATION,YU,TUMVS,Operator Violated Signal
+294,DON MILLS STATION,SHP,TUMVS,Operator Violated Signal
+295,QUEEN STATION,YU,MUATC,ATC Project
+296,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+297,CHRISTIE STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+298,BAY STATION,BD,MUTD,Training Department Related Delays
+299,CASTLE FRANK STATION,BD,EUDO,Door Problems - Faulty Equipment
+300,BROADVIEW STATION,BD,EUCD,Consequential Delay (2nd Delay Same Fault)
+301,NORTH YORK CTR STATION,YU,MUPR1,Priority One - Train in Contact With Person
+302,NORTH YORK CTR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+303,VAUGHAN MC STATION,YU,MUSAN,Unsanitary Vehicle
+304,DUFFERIN TO KIPLING ST,BD,TUS,Crew Unable to Maintain Schedule
+305,JANE STATION,BD,MUDD,Door Problems - Debris Related
+306,LAWRENCE WEST STATION,YU,PUSAC,Signals Axle Counter Block Failure
+307,CASTLE FRANK STATION,BD,TUS,Crew Unable to Maintain Schedule
+308,KENNEDY BD STATION,BD,SUDP,Disorderly Patron
+309,COXWELL STATION,BD,TUS,Crew Unable to Maintain Schedule
+310,DONLANDS STATION,BD,SUDP,Disorderly Patron
+311,SHEPPARD STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+312,DAVISVILLE YARD,YU,PUTSM,Track Switch Failure - Track Related Problem
+313,KEELE STATION,BD,PUCSC,Signal Control Problem - Signals
+314,SHERBOURNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+315,MIDLAND STATION,SRT,PRSP,Signals Power Supply Related
+316,CHESTER STATION,BD,TUO,Transportation Department - Other
+317,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+318,OLD MILL STATION,BD,PUSWZ,Work Zone Problems - Signals
+319,ST CLAIR WEST STATION,YU,MUATC,ATC Project
+320,QUEEN STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+321,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+322,ROYAL YORK STATION,BD,MUSC,Miscellaneous Speed Control
+323,COLLEGE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+324,QUEEN STATION,YU,TUO,Transportation Department - Other
+325,VAUGHAN MC STATION,YU,MUATC,ATC Project
+326,KENNEDY BD STATION,BD,EUBK,Brakes
+327,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+328,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+329,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+330,DAVISVILLE STATION,YU,PUSSW,Track Switch Failure - Signal Related Problem
+331,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+332,LAWRENCE STATION,YU,TUSC,Operator Overspeeding
+333,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+334,DAVISVILLE STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+335,WILSON STATION,YU,PUSTS,Signals - Train Stops
+336,EGLINTON WEST STATION,YU,SUO,Passenger Other
+337,EGLINTON WEST STATION,YU,SUUT,Unauthorized at Track Level
+338,KING STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+339,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+340,BAYVIEW STATION,SHP,TUSC,Operator Overspeeding
+341,KEELE STATION,BD,PUCSC,Signal Control Problem - Signals
+342,SHEPPARD-YONGE STATION,SHP,TUO,Transportation Department - Other
+343,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+344,WARDEN STATION,BD,EUDO,Door Problems - Faulty Equipment
+345,FINCH STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+346,CHESTER STATION,BD,TUSC,Operator Overspeeding
+347,ROYAL YORK STATION,BD,EUAC,Air Conditioning
+348,KEELE STATION,BD,PUSTS,Signals - Train Stops
+349,FINCH STATION,YU,MUSAN,Unsanitary Vehicle
+350,WILSON STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+351,ROSEDALE STATION,YU,SUUT,Unauthorized at Track Level
+352,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+353,KIPLING STATION,BD,TUKEY,Two Drum Switch Keys Activated
+354,YONGE BD STATION,BD,EUNT,Equipment - No Trouble Found
+355,FINCH STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+356,WOODBINE STATION,BD,EUNT,Equipment - No Trouble Found
+357,BAYVIEW STATION,SHP,MUSC,Miscellaneous Speed Control
+358,MUSEUM STATION,YU,SUAP,Assault / Patron Involved
+359,LAWRENCE STATION,YU,PUSNT,Signal Problem - No Trouble
+360,JANE STATION,BD,MUSC,Miscellaneous Speed Control
+361,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+362,KIPLING STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+363,KENNEDY SRT STATION,SRT,MRTO,Timeout
+364,MCCOWAN STATION,SRT,ERWA,Warning Alarm Systems
+365,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+366,BAYVIEW STATION,SHP,MUSC,Miscellaneous Speed Control
+367,ST CLAIR WEST STATION,YU,SUO,Passenger Other
+368,ST PATRICK STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+369,HIGH PARK STATION,BD,PUSI,Signals or Related Components Failure 
+370,HIGH PARK STATION,BD,PUSI,Signals or Related Components Failure 
+371,YORK MILLS STATION,YU,SUDP,Disorderly Patron
+372,KEELE STATION TO KIPLI,BD,TUS,Crew Unable to Maintain Schedule
+373,KENNEDY BD STATION,BD,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+374,OLD MILL STATION,BD,TUO,Transportation Department - Other
+375,GLENCAIRN STATION,YU,SUDP,Disorderly Patron
+376,DUNDAS WEST STATION,BD,SUDP,Disorderly Patron
+377,ISLINGTON STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+378,PIONEER VILLAGE STATIO,YU,SUDP,Disorderly Patron
+379,COLLEGE STATION,YU,PUSNT,Signal Problem - No Trouble
+380,FINCH STATION,YU,MUDD,Door Problems - Debris Related
+381,BAY STATION,BD,SUPOL,Held By Polce - Non-TTC Related
+382,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+383,VAUGHAN MC STATION,YU,MUO,Miscellaneous Other
+384,SHEPPARD STATION,YU,MUSC,Miscellaneous Speed Control
+385,CASTLE FRANK STATION,BD,SUO,Passenger Other
+386,VAUGHAN MC STATION,YU,TUO,Transportation Department - Other
+387,EGLINTON WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+388,WARDEN STATION,BD,SUUT,Unauthorized at Track Level
+389,PAPE STATION,BD,TUO,Transportation Department - Other
+390,DON MILLS STATION,SHP,TUMVS,Operator Violated Signal
+391,DON MILLS STATION,SHP,PUCSC,Signal Control Problem - Signals
+392,VAUGHAN MC STATION,YU,EUDO,Door Problems - Faulty Equipment
+393,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+394,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+395,ROSEDALE STATION,YU,SUDP,Disorderly Patron
+396,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+397,ELLESMERE STATION,SRT,ERTC,Train Control - VOBC
+398,MCCOWAN STATION,SRT,MRO,Miscellaneous Other
+399,UNION STATION TO KING,YU,SUDP,Disorderly Patron
+400,MCCOWAN STATION,SRT,MRTO,Timeout
+401,ISLINGTON STATION,BD,MUDD,Door Problems - Debris Related
+402,EGLINTON WEST STATION,YU,MUD,Door Problems - Passenger Related
+403,SCARBOROUGH RAPID TRAN,SRT,MRWEA,Weather Reports / Related Delays
+404,SHEPPARD-YONGE STATION,SHP,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+405,WELLESLEY STATION,YU,SUO,Passenger Other
+406,GREENWOOD YARD,BD,SUG,Graffiti / Scratchiti
+407,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+408,ST GEORGE BD STATION,BD,SUDP,Disorderly Patron
+409,SHEPPARD-YONGE STATION,SHP,TUO,Transportation Department - Other
+410,LAWRENCE STATION,YU,PUSTC,Signals - Track Circuit Problems
+411,LAWRENCE STATION,YU,PUSRA,Subway Radio System Fault 
+412,DON MILLS STATION,SHP,TUMVS,Operator Violated Signal
+413,VICTORIA PARK STATION,BD,PUSTS,Signals - Train Stops
+414,COLLEGE STATION,YU,TUMVS,Operator Violated Signal
+415,CHESTER STATION,BD,TUO,Transportation Department - Other
+416,WILSON YARD,YU,MUPLB,Fire/Smoke Plan B - Source TTC
+417,ISLINGTON STATION,YU,TUMVS,Operator Violated Signal
+418,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+419,DUFFERIN STATION,BD,EUDO,Door Problems - Faulty Equipment
+420,OSSINGTON STATION,BD,EUCD,Consequential Delay (2nd Delay Same Fault)
+421,QUEEN STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+422,BROADVIEW STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+423,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+424,COLLEGE STATION,YU,TUMVS,Operator Violated Signal
+425,SHEPPARD-YONGE STATION,SHP,SUDP,Disorderly Patron
+426,MCCOWAN STATION NB,SRT,MRO,Miscellaneous Other
+427,SHERBOURNE STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+428,DAVISVILLE STATION,YU,MUO,Miscellaneous Other
+429,EGLINTON STATION,YU,MUO,Miscellaneous Other
+430,GREENWOOD WYE,BD,EUSC,Speed Control Equipment  
+431,DAVISVILLE STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+432,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+433,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+434,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+435,MCCOWAN STATION,SRT,ERPR,Propulsion System
+436,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+437,DOWNSVIEW PARK STATION,YU,TUO,Transportation Department - Other
+438,ST CLAIR WEST STATION,YU,SUDP,Disorderly Patron
+439,DAVISVILLE STATION,YU,PUSTC,Signals - Track Circuit Problems
+440,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+441,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+442,KENNEDY BD STATION,BD,EUNT,Equipment - No Trouble Found
+443,CHRISTIE STATION,BD,SUDP,Disorderly Patron
+444,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+445,SHEPPARD WEST STATION,YU,EUBO,Body
+446,DUNDAS WEST STATION,BD,SUAP,Assault / Patron Involved
+447,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+448,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+449,ST CLAIR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+450,DUFFERIN STATION,BD,SUAP,Assault / Patron Involved
+451,ST GEORGE BD STATION,BD,SUAP,Assault / Patron Involved
+452,ST PATRICK STATION,YU,SUDP,Disorderly Patron
+453,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+454,YONGE BD STATION,BD,TUOS,Operator Overshot Platform
+455,DONLANDS STATION,BD,PUSI,Signals or Related Components Failure 
+456,COXWELL STATION,BD,SUUT,Unauthorized at Track Level
+457,WILSON STATION,YU,MUATC,ATC Project
+458,BROADVIEW STATION,BD,EUCA,Compressed Air
+459,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+460,CASTLE FRANK STATION,BD,SUAP,Assault / Patron Involved
+461,HIGHWAY 407 STATION,YU,SUUT,Unauthorized at Track Level
+462,KENNEDY BD STATION,BD,MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused
+463,UNION STATION,YU,SUDP,Disorderly Patron
+464,COLLEGE STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+465,WILSON YARD,YU,MUATC,ATC Project
+466,LAWRENCE STATION,YU,EUO,RC&S Other
+467,DON MILLS STATION,SHP,PUCSC,Signal Control Problem - Signals
+468,LAWRENCE STATION,YU,TUS,Crew Unable to Maintain Schedule
+469,UNION STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+470,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+471,MUSEUM STATION,YU,SUDP,Disorderly Patron
+472,HIGH PARK STATION,BD,MUTD,Training Department Related Delays
+473,DAVISVILLE STATION,YU,SUDP,Disorderly Patron
+474,EGLINTON STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+475,KENNEDY BD STATION,BD,TUKEY,Two Drum Switch Keys Activated
+476,LAWRENCE STATION,YU,TUOS,Operator Overshot Platform
+477,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+478,UNION STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+479,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+480,QUEEN STATION,YU,SUDP,Disorderly Patron
+481,WARDEN STATION,BD,EUNT,Equipment - No Trouble Found
+482,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+483,DAVISVILLE STATION,YU,TUSC,Operator Overspeeding
+484,SHEPPARD WEST STATION,YU,MUATC,ATC Project
+485,ST CLAIR STATION,YU,PUTDN,#N/A
+486,KENNEDY BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+487,KENNEDY SRT STATION,SRT,MRUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+488,PAPE STATION,BD,MUD,Door Problems - Passenger Related
+489,YORK MILLS STATION,YU,MUO,Miscellaneous Other
+490,SHEPPARD STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+491,DUNDAS WEST STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+492,WARDEN STATION,BD,SUDP,Disorderly Patron
+493,WILSON STATION,YU,MUATC,ATC Project
+494,ST CLAIR WEST STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+495,SHEPPARD STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+496,PAPE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+497,ROYAL YORK STATION,BD,EUSC,Speed Control Equipment  
+498,GREENWOOD STATION,BD,EUNT,Equipment - No Trouble Found
+499,LAWRENCE STATION,YU,PUSTS,Signals - Train Stops
+500,MCCOWAN YARD,SRT,PRTST,Signals - Train Stops
+501,PAPE STATION,BD,PUSWZ,Work Zone Problems - Signals
+502,WELLESLEY STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+503,COXWELL STATION,BD,SUUT,Unauthorized at Track Level
+504,ROYAL YORK STATION,BD,EUSC,Speed Control Equipment  
+505,DOWNSVIEW PARK STATION,YU,EUBO,Body
+506,OSSINGTON STATION,BD,PUSTS,Signals - Train Stops
+507,OSSINGTON STATION,BD,PUSTS,Signals - Train Stops
+508,OSSINGTON STATION,BD,PUSTS,Signals - Train Stops
+509,CASTLE FRANK STATION,BD,SUDP,Disorderly Patron
+510,OSSINGTON STATION,BD,PUSTS,Signals - Train Stops
+511,KEELE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+512,WOODBINE STATION,BD,SUEAS,Emergency Alarm Station Activation
+513,ROSEDALE STATION,YU,SUDP,Disorderly Patron
+514,SHEPPARD WEST STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+515,VAUGHAN MC STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+516,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+517,EGLINTON STATION,YU,SUDP,Disorderly Patron
+518,LESLIE STATION,SHP,PUOPO,OPTO (COMMS) Train Door Monitoring
+519,BESSARION STATION,SHP,PUOPO,OPTO (COMMS) Train Door Monitoring
+520,DAVISVILLE BUILD UP,YU,TUO,Transportation Department - Other
+521,ISLINGTON STATION,BD,MUSC,Miscellaneous Speed Control
+522,KENNEDY BD STATION,BD,PUCSS,Central Office Signalling System
+523,BAYVIEW STATION,SHP,SUDP,Disorderly Patron
+524,OSSINGTON STATION,BD,SUUT,Unauthorized at Track Level
+525,UNION STATION TO ST. A,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+526,SHERBOURNE STATION,BD,SUEAS,Emergency Alarm Station Activation
+527,KIPLING STATION,BD,SUG,Graffiti / Scratchiti
+528,KIPLING STATION,BD,TUMVS,Operator Violated Signal
+529,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+530,SPADINA BD STATION,BD,SUO,Passenger Other
+531,WELLESLEY STATION,YU,EUDO,Door Problems - Faulty Equipment
+532,WILSON STATION,YU,MUATC,ATC Project
+533,SHEPPARD WEST STATION,YU,SUO,Passenger Other
+534,PAPE STATION,BD,SUDP,Disorderly Patron
+535,DUNDAS WEST STATION,BD,SUDP,Disorderly Patron
+536,ST PATRICK STATION,YU,SUDP,Disorderly Patron
+537,JANE STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+538,QUEEN'S PARK STATION,YU,SUUT,Unauthorized at Track Level
+539,DAVISVILLE YARD,YU,EUOE,Rail Cars & Shops Opr. Error
+540,YONGE BD STATION,BD,PUTR,Rail Related Problem
+541,DAVISVILLE YARD,YU,SUG,Graffiti / Scratchiti
+542,MCCOWAN STATION,SRT,TRTC,Transit Control Related Problems
+543,ST GEORGE YUS STATION,YU,MUO,Miscellaneous Other
+544,GREENWOOD YARD,BD,MUSC,Miscellaneous Speed Control
+545,CHRISTIE STATION,BD,EUDO,Door Problems - Faulty Equipment
+546,KIPLING STATION,BD,TUO,Transportation Department - Other
+547,EGLINTON STATION,YU,MUSC,Miscellaneous Speed Control
+548,QUEEN STATION,YU,EUSC,Speed Control Equipment  
+549,VAUGHAN MC STATION,YU,MUCL,Divisional Clerk Related
+550,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+551,KENNEDY BD STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+552,QUEEN STATION,YU,TUMVS,Operator Violated Signal
+553,ST CLAIR STATION,YU,MUO,Miscellaneous Other
+554,HIGH PARK STATION,BD,SUO,Passenger Other
+555,DON MILLS STATION,SHP,PUOPO,OPTO (COMMS) Train Door Monitoring
+556,SHEPPARD-YONGE STATION,SHP,TUNIP,Operator Not In Position
+557,SHEPPARD-YONGE STATION,SHP,TUMVS,Operator Violated Signal
+558,MCCOWAN STATION,SRT,ERCO,Couplers
+559,ST GEORGE BD STATION,BD,MUSC,Miscellaneous Speed Control
+560,KIPLING STATION,BD,SUDP,Disorderly Patron
+561,ST CLAIR STATION,YU,EUTRD,TR Cab Doors
+562,MCCOWAN STATION,SRT,ERCD,Consequential Delay (2nd Delay Same Fault)
+563,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+564,KENNEDY BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+565,MCCOWAN STATION,SRT,ERCD,Consequential Delay (2nd Delay Same Fault)
+566,KEELE STATION,BD,MUPLB,Fire/Smoke Plan B - Source TTC
+567,SHEPPARD WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+568,ST CLAIR STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+569,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+570,EGLINTON STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+571,ST GEORGE BD STATION,BD,TUSC,Operator Overspeeding
+572,SHEPPARD STATION,YU,PUSI,Signals or Related Components Failure 
+573,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+574,KIPLING STATION,BD,SUG,Graffiti / Scratchiti
+575,GLENCAIRN STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+576,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+577,DOWNSVIEW PARK STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+578,MCCOWAN STATION TO KEN,SRT,MRWEA,Weather Reports / Related Delays
+579,OLD MILL STATION,BD,TUO,Transportation Department - Other
+580,COXWELL STATION,BD,TUO,Transportation Department - Other
+581,QUEEN STATION,YU,TUSC,Operator Overspeeding
+582,DUPONT STATION,YU,SUDP,Disorderly Patron
+583,WELLESLEY STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+584,WELLESLEY STATION,YU,SUDP,Disorderly Patron
+585,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+586,SHERBOURNE STATION,BD,SUDP,Disorderly Patron
+587,CHESTER STATION,BD,TUO,Transportation Department - Other
+588,FINCH WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+589,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+590,FINCH STATION,YU,TUSC,Operator Overspeeding
+591,DOWNSVIEW PARK STATION,YU,EUHV,High Voltage
+592,VAUGHAN MC STATION,YU,TUNOA,No Operator Immediately Available 
+593,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+594,LESLIE STATION,SHP,PUOPO,OPTO (COMMS) Train Door Monitoring
+595,ST PATRICK STATION,YU,SUAE,Assault / Employee Involved
+596,DUNDAS STATION,YU,SUDP,Disorderly Patron
+597,FINCH WEST STATION,YU,MUATC,ATC Project
+598,ST CLAIR STATION,YU,TUSC,Operator Overspeeding
+599,OSSINGTON STATION,BD,SUDP,Disorderly Patron
+600,ROYAL YORK STATION,BD,SUUT,Unauthorized at Track Level
+601,LANSDOWNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+602,SHEPPARD STATION,YU,MUDD,Door Problems - Debris Related
+603,VICTORIA PARK STATION,BD,PUSI,Signals or Related Components Failure 
+604,VICTORIA PARK STATION,BD,PUSTC,Signals - Track Circuit Problems
+605,WOODBINE STATION,BD,SUDP,Disorderly Patron
+606,COXWELL STATION,BD,SUDP,Disorderly Patron
+607,WELLESLEY STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+608,BLOOR STATION,YU,SUDP,Disorderly Patron
+609,FINCH STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+610,YONGE SHP STATION,SHP,TUMVS,Operator Violated Signal
+611,DUNDAS WEST STATION,BD,SUDP,Disorderly Patron
+612,ISLINGTON STATION,BD,SUDP,Disorderly Patron
+613,DUPONT STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+614,ST ANDREW STATION,YU,MUATC,ATC Project
+615,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+616,WILSON STATION,YU,MUATC,ATC Project
+617,FINCH STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+618,WILSON STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+619,SPADINA BD STATION,BD,SUUT,Unauthorized at Track Level
+620,SPADINA YUS STATION,YU,SUUT,Unauthorized at Track Level
+621,MCCOWAN STATION,SRT,MRNOA,No Operator Immediately Available - Not E.S.A. Related 
+622,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+623,COLLEGE STATION,YU,MUSAN,Unsanitary Vehicle
+624,FINCH STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+625,DON MILLS STATION,SHP,MUI,Injured or ill Customer (On Train) - Transported
+626,COXWELL STATION,BD,SUDP,Disorderly Patron
+627,WARDEN STATION,BD,TUMVS,Operator Violated Signal
+628,LAWRENCE WEST STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+629,LAWRENCE EAST STATION,SRT,SRAP,Assault / Patron Involved
+630,ELLESMERE STATION,SRT,SRAP,Assault / Patron Involved
+631,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+632,CHRISTIE STATION,BD,MUDD,Door Problems - Debris Related
+633,DUNDAS STATION,YU,SUDP,Disorderly Patron
+634,MUSEUM STATION,YU,SUDP,Disorderly Patron
+635,VICTORIA PARK STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+636,YORK MILLS STATION,YU,MUDD,Door Problems - Debris Related
+637,YONGE SHP STATION,SHP,MUSC,Miscellaneous Speed Control
+638,YONGE SHP STATION,SHP,EUOE,Rail Cars & Shops Opr. Error
+639,DON MILLS STATION,SHP,MUO,Miscellaneous Other
+640,ST GEORGE YUS STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+641,VAUGHAN MC STATION,YU,EUTRD,TR Cab Doors
+642,KIPLING STATION,BD,MUSAN,Unsanitary Vehicle
+643,KIPLING STATION,BD,TUSC,Operator Overspeeding
+644,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+645,LAWRENCE STATION,YU,TUOS,Operator Overshot Platform
+646,KENNEDY BD STATION,BD,MUSAN,Unsanitary Vehicle
+647,EGLINTON STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+648,HIGH PARK STATION,BD,SUUT,Unauthorized at Track Level
+649,VAUGHAN MC STATION,YU,TUNOA,No Operator Immediately Available 
+650,NORTH YORK CTR STATION,YU,MUSC,Miscellaneous Speed Control
+651,SCARBOROUGH CTR STATIO,SRT,ERDO,Door Problems - Faulty Equipment
+652,KIPLING STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+653,SPADINA BD STATION,BD,TUS,Crew Unable to Maintain Schedule
+654,BAY STATION,BD,EUME,RC&S Maintenance Error - (Human)
+655,QUEEN STATION,YU,MUATC,ATC Project
+656,KIPLING STATION,BD,TUMVS,Operator Violated Signal
+657,UNION STATION,YU,SUDP,Disorderly Patron
+658,VAUGHAN MC STATION,YU,MUO,Miscellaneous Other
+659,BAYVIEW STATION,SHP,MUSC,Miscellaneous Speed Control
+660,FINCH STATION,YU,EUPI,Propulsion System
+661,SHEPPARD WEST STATION,YU,SUDP,Disorderly Patron
+662,BATHURST STATION,BD,SUDP,Disorderly Patron
+663,ISLINGTON STATION,BD,TUCC,Transit Control Related Problems
+664,WARDEN STATION,BD,SUO,Passenger Other
+665,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+666,EGLINTON STATION,YU,EUOE,Rail Cars & Shops Opr. Error
+667,YONGE SHP STATION,SHP,TUMVS,Operator Violated Signal
+668,KENNEDY BD STATION,BD,EULV,Low Voltage
+669,LAWRENCE EAST STATION,SRT,ERCO,Couplers
+670,DONLANDS STATION,BD,TUO,Transportation Department - Other
+671,QUEEN'S PARK STATION,YU,SUDP,Disorderly Patron
+672,BATHURST STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+673,CHESTER STATION,BD,SUDP,Disorderly Patron
+674,EGLINTON WEST STATION,YU,SUDP,Disorderly Patron
+675,EGLINTON STATION,YU,SUDP,Disorderly Patron
+676,EGLINTON STATION,YU,TUMVS,Operator Violated Signal
+677,GLENCAIRN STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+678,MCCOWAN STATION,SRT,MRNOA,No Operator Immediately Available - Not E.S.A. Related 
+679,KENNEDY BD STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+680,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+681,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+682,SHEPPARD WEST STATION,YU,MUO,Miscellaneous Other
+683,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+684,FINCH WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+685,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+686,DAVISVILLE STATION,YU,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+687,SPADINA YUS STATION,YU,SUAE,Assault / Employee Involved
+688,BLOOR STATION,YU,SUDP,Disorderly Patron
+689,KENNEDY BD STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+690,MAIN STREET STATION,BD,SUDP,Disorderly Patron
+691,GREENWOOD STATION,BD,MUSC,Miscellaneous Speed Control
+692,KIPLING STATION,BD,TUOS,Operator Overshot Platform
+693,COLLEGE STATION,YU,TUO,Transportation Department - Other
+694,KENNEDY BD STATION,BD,TUMVS,Operator Violated Signal
+695,VAUGHAN MC STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+696,EGLINTON STATION,YU,SUUT,Unauthorized at Track Level
+697,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+698,FINCH STATION,YU,TUSC,Operator Overspeeding
+699,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+700,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+701,YORK MILLS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+702,LANSDOWNE STATION,BD,MUO,Miscellaneous Other
+703,LAWRENCE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+704,COXWELL STATION,BD,PUSCR,Subway Car Radio Fault 
+705,MUSEUM STATION,YU,MUATC,ATC Project
+706,VAUGHAN MC STATION,YU,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+707,SUMMERHILL STATION,YU,PUTO,T&S Other
+708,KIPLING STATION,BD,SUG,Graffiti / Scratchiti
+709,KENNEDY SRT STATION,SRT,MRTO,Timeout
+710,KENNEDY BD STATION,BD,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+711,YORKDALE STATION,YU,MUATC,ATC Project
+712,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+713,YONGE SHP STATION,SHP,TUNIP,Operator Not In Position
+714,SUMMERHILL STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+715,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+716,WILSON STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+717,LAWRENCE WEST STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+718,KENNEDY BD STATION,BD,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+719,BAYVIEW STATION,SHP,MUSC,Miscellaneous Speed Control
+720,HIGH PARK STATION,BD,TUOS,Operator Overshot Platform
+721,ST GEORGE BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+722,KENNEDY BD STATION,BD,MUD,Door Problems - Passenger Related
+723,SHERBOURNE STATION,BD,MUO,Miscellaneous Other
+724,WARDEN STATION,BD,TUMVS,Operator Violated Signal
+725,YONGE BD STATION,BD,SUUT,Unauthorized at Track Level
+726,GREENWOOD YARD,BD,TUMVS,Operator Violated Signal
+727,SPADINA YUS STATION,YU,EUDO,Door Problems - Faulty Equipment
+728,MCCOWAN STATION,SRT,ERDB,Disc Brakes
+729,EGLINTON WEST STATION,YU,SUDP,Disorderly Patron
+730,GREENWOOD STATION,BD,TUSUP,Supervisory Error
+731,DONLANDS STATION,BD,TUCC,Transit Control Related Problems
+732,KENNEDY BD STATION,BD,TUSUP,Supervisory Error
+733,GREENWOOD STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+734,PAPE STATION,BD,SUDP,Disorderly Patron
+735,COXWELL STATION,BD,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+736,ST CLAIR WEST STATION,YU,EUBO,Body
+737,SHERBOURNE STATION,BD,SUDP,Disorderly Patron
+738,COXWELL STATION,BD,MUSAN,Unsanitary Vehicle
+739,COLLEGE STATION,YU,MUSC,Miscellaneous Speed Control
+740,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+741,ISLINGTON STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+742,YORK MILLS STATION,YU,TUMVS,Operator Violated Signal
+743,NORTH YORK CTR STATION,YU,MUTD,Training Department Related Delays
+744,ST GEORGE YUS STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+745,UNION STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+746,BAY STATION,BD,SUUT,Unauthorized at Track Level
+747,DOWNSVIEW PARK STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+748,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+749,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+750,ST CLAIR STATION,YU,TUMVS,Operator Violated Signal
+751,DAVISVILLE STATION,YU,TUOS,Operator Overshot Platform
+752,GREENWOOD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+753,MAIN STREET STATION,BD,TUKEY,Two Drum Switch Keys Activated
+754,KING STATION,YU,EUDO,Door Problems - Faulty Equipment
+755,DUNDAS STATION,YU,SUUT,Unauthorized at Track Level
+756,VAUGHAN MC STATION,YU,PUSRA,Subway Radio System Fault 
+757,VAUGHAN MC STATION,YU,SUCOL,Collector Booth Alarm Activated
+758,BLOOR STATION,YU,PUSRA,Subway Radio System Fault 
+759,KENNEDY BD STATION,BD,MUSAN,Unsanitary Vehicle
+760,FINCH STATION,YU,TUMVS,Operator Violated Signal
+761,CASTLE FRANK STATION,BD,SUUT,Unauthorized at Track Level
+762,ST GEORGE BD STATION,BD,TUSC,Operator Overspeeding
+763,ST CLAIR STATION,YU,TUOS,Operator Overshot Platform
+764,EGLINTON STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+765,QUEEN STATION,YU,MUATC,ATC Project
+766,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+767,SUMMERHILL STATION,YU,SUDP,Disorderly Patron
+768,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+769,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+770,QUEEN STATION,YU,MUATC,ATC Project
+771,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+772,SPADINA YUS STATION,YU,TUCC,Transit Control Related Problems
+773,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+774,DON MILLS STATION,SHP,MUPLB,Fire/Smoke Plan B - Source TTC
+775,UNION STATION,YU,SUROB,Robbery
+776,KIPLING STATION,BD,SUDP,Disorderly Patron
+777,EGLINTON STATION,YU,MUSAN,Unsanitary Vehicle
+778,KEELE STATION,BD,MUSC,Miscellaneous Speed Control
+779,SHERBOURNE STATION,BD,SUUT,Unauthorized at Track Level
+780,ST CLAIR STATION,YU,MUSC,Miscellaneous Speed Control
+781,YORK MILLS STATION,YU,TUMVS,Operator Violated Signal
+782,QUEEN STATION,YU,MUATC,ATC Project
+783,DONLANDS STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+784,KIPLING STATION,BD,SUDP,Disorderly Patron
+785,WOODBINE STATION,BD,SUDP,Disorderly Patron
+786,BROADVIEW STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+787,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+788,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+789,WOODBINE STATION,BD,SUDP,Disorderly Patron
+790,QUEEN STATION,YU,EUDO,Door Problems - Faulty Equipment
+791,KENNEDY BD STATION,BD,MUSAN,Unsanitary Vehicle
+792,QUEEN'S PARK STATION,YU,MUATC,ATC Project
+793,GREENWOOD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+794,ST CLAIR STATION,YU,SUDP,Disorderly Patron
+795,WILSON STATION,YU,MUATC,ATC Project
+796,ST CLAIR WEST STATION,YU,MUPLC,Fire/Smoke Plan C
+797,BAYVIEW STATION,SHP,TUSC,Operator Overspeeding
+798,ST ANDREW STATION,YU,SUO,Passenger Other
+799,ST GEORGE YUS STATION,YU,SUPOL,Held By Polce - Non-TTC Related
+800,ST GEORGE BD STATION,BD,SUO,Passenger Other
+801,BAYVIEW STATION,SHP,TUOS,Operator Overshot Platform
+802,YONGE BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+803,MCCOWAN STATION,SRT,MRCL,Divisional Clerk Related
+804,KEELE STATION,BD,MUO,Miscellaneous Other
+805,EGLINTON STATION,YU,TUO,Transportation Department - Other
+806,YONGE BD STATION,BD,PUTO,T&S Other
+807,BESSARION STATION,SHP,TUOS,Operator Overshot Platform
+808,DONLANDS STATION,BD,EUSC,Speed Control Equipment  
+809,LAWRENCE WEST STATION,YU,TUOS,Operator Overshot Platform
+810,BAYVIEW STATION,SHP,TUSC,Operator Overspeeding
+811,OSSINGTON STATION,BD,TUMVS,Operator Violated Signal
+812,SUMMERHILL STATION,YU,SUDP,Disorderly Patron
+813,BATHURST STATION,BD,SUAP,Assault / Patron Involved
+814,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+815,VICTORIA PARK STATION,BD,SUDP,Disorderly Patron
+816,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+817,VICTORIA PARK STATION,BD,SUDP,Disorderly Patron
+818,EGLINTON WEST STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+819,BROADVIEW STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+820,SPADINA YUS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+821,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+822,OLD MILL STATION,BD,TUOS,Operator Overshot Platform
+823,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+824,MAIN STREET STATION,BD,SUDP,Disorderly Patron
+825,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+826,VAUGHAN MC STATION,YU,SUUT,Unauthorized at Track Level
+827,FINCH STATION,YU,EUHV,High Voltage
+828,FINCH STATION,YU,EUECD,ECD / Line Mechanic Related Prob.
+829,NORTH YORK CTR STATION,YU,EUNT,Equipment - No Trouble Found
+830,QUEEN STATION,YU,MUATC,ATC Project
+831,COLLEGE STATION,YU,PUSRA,Subway Radio System Fault 
+832,JANE STATION,BD,TUSC,Operator Overspeeding
+833,KIPLING STATION,BD,TUMVS,Operator Violated Signal
+834,YORKDALE STATION,YU,MUATC,ATC Project
+835,ROSEDALE STATION,YU,SUDP,Disorderly Patron
+836,SHEPPARD STATION,YU,MUSC,Miscellaneous Speed Control
+837,EGLINTON STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+838,LAWRENCE STATION,YU,TUSC,Operator Overspeeding
+839,BLOOR STATION,YU,SUEAS,Emergency Alarm Station Activation
+840,QUEEN STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+841,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+842,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+843,BLOOR STATION,YU,SUUT,Unauthorized at Track Level
+844,LAWRENCE STATION,YU,SUDP,Disorderly Patron
+845,BATHURST STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+846,ST PATRICK STATION,YU,MUPR1,Priority One - Train in Contact With Person
+847,LAWRENCE STATION,YU,SUDP,Disorderly Patron
+848,KIPLING STATION,BD,PUCSC,Signal Control Problem - Signals
+849,DAVISVILLE STATION,YU,MUO,Miscellaneous Other
+850,KENNEDY BD STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+851,LAWRENCE WEST STATION,YU,SUDP,Disorderly Patron
+852,KIPLING STATION,BD,SUO,Passenger Other
+853,LAWRENCE STATION,YU,EUTRD,TR Cab Doors
+854,KIPLING STATION,BD,SUDP,Disorderly Patron
+855,VICTORIA PARK STATION,BD,SUDP,Disorderly Patron
+856,QUEEN STATION,YU,MUATC,ATC Project
+857,EGLINTON STATION,YU,PUSNT,Signal Problem - No Trouble
+858,DON MILLS STATION,SHP,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+859,KIPLING STATION,BD,PUTWZ,Work Zone Problems - Track
+860,COXWELL STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+861,SHEPPARD WEST STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+862,EGLINTON STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+863,GREENWOOD STATION,BD,MUDD,Door Problems - Debris Related
+864,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+865,SHEPPARD STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+866,EGLINTON STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+867,ST GEORGE BD STATION,BD,SUDP,Disorderly Patron
+868,DONLANDS STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+869,QUEEN STATION,YU,MUATC,ATC Project
+870,ST CLAIR WEST STATION,YU,SUDP,Disorderly Patron
+871,OSSINGTON STATION,BD,SUDP,Disorderly Patron
+872,WELLESLEY STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+873,BLOOR STATION,YU,SUDP,Disorderly Patron
+874,YONGE BD STATION,BD,SUO,Passenger Other
+875,CASTLE FRANK STATION,BD,MUPR1,Priority One - Train in Contact With Person
+876,OLD MILL STATION,BD,MUO,Miscellaneous Other
+877,QUEEN STATION,YU,MUATC,ATC Project
+878,UNION STATION,YU,SUUT,Unauthorized at Track Level
+879,YONGE SHP STATION,SHP,PUSWZ,Work Zone Problems - Signals
+880,ST CLAIR WEST STATION,YU,PUSWZ,Work Zone Problems - Signals
+881,KIPLING STATION,BD,EUCO,Couplers
+882,FINCH STATION,YU,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+883,OSSINGTON STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+884,SHEPPARD WEST STATION,YU,SUDP,Disorderly Patron
+885,DUPONT STATION,YU,SUDP,Disorderly Patron
+886,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+887,KEELE STATION,BD,PUSTS,Signals - Train Stops
+888,DAVISVILLE STATION,YU,EUYRD,Yard/Carhouse Related Problems
+889,VICTORIA PARK STATION,BD,EUDO,Door Problems - Faulty Equipment
+890,OSSINGTON STATION,BD,SUDP,Disorderly Patron
+891,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+892,CHRISTIE STATION,BD,MUPR1,Priority One - Train in Contact With Person
+893,QUEEN STATION,YU,SUUT,Unauthorized at Track Level
+894,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+895,FINCH WEST STATION,YU,SUDP,Disorderly Patron
+896,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+897,BAY STATION,BD,EUNT,Equipment - No Trouble Found
+898,DUNDAS WEST STATION,BD,SUAP,Assault / Patron Involved
+899,KIPLING STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+900,MCCOWAN STATION,SRT,ERDO,Door Problems - Faulty Equipment
+901,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+902,KIPLING STATION,BD,MUSAN,Unsanitary Vehicle
+903,WELLESLEY STATION,YU,SUDP,Disorderly Patron
+904,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+905,MAIN STREET STATION,BD,SUO,Passenger Other
+906,HIGH PARK STATION,BD,SUUT,Unauthorized at Track Level
+907,CHRISTIE STATION,BD,TUMVS,Operator Violated Signal
+908,YORKDALE STATION,YU,SUDP,Disorderly Patron
+909,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+910,SHEPPARD STATION,YU,MUSC,Miscellaneous Speed Control
+911,DUPONT STATION,YU,SUPOL,Held By Polce - Non-TTC Related
+912,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+913,BAYVIEW STATION,SHP,PUSTS,Signals - Train Stops
+914,FINCH WEST STATION,YU,SUCOL,Collector Booth Alarm Activated
+915,BROADVIEW STATION,BD,TUOS,Operator Overshot Platform
+916,ST PATRICK STATION,YU,SUO,Passenger Other
+917,LAWRENCE WEST STATION,YU,MUATC,ATC Project
+918,YONGE BD STATION,BD,SUDP,Disorderly Patron
+919,GREENWOOD YARD,BD,SUG,Graffiti / Scratchiti
+920,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+921,SHEPPARD WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+922,COLLEGE STATION,YU,SUUT,Unauthorized at Track Level
+923,WELLESLEY STATION,YU,MUSAN,Unsanitary Vehicle
+924,KENNEDY BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+925,QUEEN STATION,YU,SUDP,Disorderly Patron
+926,KIPLING STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+927,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+928,FINCH WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+929,NORTH YORK CTR STATION,YU,SUUT,Unauthorized at Track Level
+930,CASTLE FRANK STATION,BD,MUPLB,Fire/Smoke Plan B - Source TTC
+931,KENNEDY BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+932,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+933,BATHURST STATION,BD,SUEAS,Emergency Alarm Station Activation
+934,KENNEDY BD STATION,BD,MUSC,Miscellaneous Speed Control
+935,ST PATRICK STATION,YU,EUDO,Door Problems - Faulty Equipment
+936,WARDEN STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+937,BATHURST STATION,BD,SUDP,Disorderly Patron
+938,YONGE SHP STATION,SHP,MUDD,Door Problems - Debris Related
+939,KIPLING STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+940,KIPLING STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+941,ST GEORGE BD STATION,BD,SUG,Graffiti / Scratchiti
+942,FINCH STATION,YU,TUSC,Operator Overspeeding
+943,WILSON STATION,YU,MUATC,ATC Project
+944,BESSARION STATION,SHP,TUOS,Operator Overshot Platform
+945,ST GEORGE BD STATION,BD,TUMVS,Operator Violated Signal
+946,KING STATION,YU,SUAE,Assault / Employee Involved
+947,ISLINGTON STATION,BD,MUSC,Miscellaneous Speed Control
+948,CHRISTIE STATION,BD,TUSC,Operator Overspeeding
+949,VICTORIA PARK STATION,BD,EUDO,Door Problems - Faulty Equipment
+950,DONLANDS STATION,BD,SUO,Passenger Other
+951,KIPLING STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+952,COXWELL STATION,BD,TUNOA,No Operator Immediately Available 
+953,YONGE BD STATION,BD,SUDP,Disorderly Patron
+954,DUNDAS WEST STATION,BD,MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused
+955,EGLINTON WEST STATION,YU,EUDO,Door Problems - Faulty Equipment
+956,FINCH STATION,YU,TUSC,Operator Overspeeding
+957,DAVISVILLE STATION,YU,EUOE,Rail Cars & Shops Opr. Error
+958,CHESTER STATION,BD,SUDP,Disorderly Patron
+959,DUNDAS WEST STATION,BD,SUCOL,Collector Booth Alarm Activated
+960,FINCH STATION,YU,SUDP,Disorderly Patron
+961,KIPLING STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+962,KIPLING STATION,BD,SUDP,Disorderly Patron
+963,COXWELL STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+964,WARDEN STATION,BD,SUDP,Disorderly Patron
+965,COXWELL STATION,BD,TUO,Transportation Department - Other
+966,YONGE BD STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+967,YONGE BD STATION,BD,SUDP,Disorderly Patron
+968,CHRISTIE STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+969,KENNEDY BD STATION,BD,TUO,Transportation Department - Other
+970,ISLINGTON STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+971,FINCH WEST STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+972,FINCH WEST STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+973,YORKDALE STATION,YU,SUDP,Disorderly Patron
+974,BLOOR STATION,YU,SUO,Passenger Other
+975,YONGE SHP STATION,SHP,TUNOA,No Operator Immediately Available 
+976,MCCOWAN STATION,SRT,TRNOA,No Operator Immediately Available 
+977,ST CLAIR WEST STATION,YU,MUATC,ATC Project
+978,FINCH WEST STATION,YU,MUATC,ATC Project
+979,FINCH STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+980,SHEPPARD STATION,YU,EUDO,Door Problems - Faulty Equipment
+981,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+982,ST CLAIR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+983,SUMMERHILL STATION,YU,EUSC,Speed Control Equipment  
+984,FINCH STATION,YU,SUDP,Disorderly Patron
+985,ST CLAIR STATION,YU,MUSC,Miscellaneous Speed Control
+986,YONGE SHP STATION,SHP,MUIS,Injured or ill Customer (In Station) - Transported
+987,GREENWOOD STATION,BD,SUDP,Disorderly Patron
+988,FINCH STATION,YU,TUSC,Operator Overspeeding
+989,KEELE STATION,BD,SUDP,Disorderly Patron
+990,WELLESLEY STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+991,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+992,ROYAL YORK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+993,BAY STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+994,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+995,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+996,KEELE STATION,BD,PUSTS,Signals - Train Stops
+997,DONLANDS STATION,BD,MUSC,Miscellaneous Speed Control
+998,EGLINTON STATION,YU,EUBO,Body
+999,KENNEDY BD STATION,BD,EUCA,Compressed Air
+1000,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+1001,VAUGHAN MC STATION,YU,EUAC,Air Conditioning
+1002,EGLINTON STATION,YU,TUMVS,Operator Violated Signal
+1003,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+1004,ST CLAIR STATION,YU,TUMVS,Operator Violated Signal
+1005,CHRISTIE STATION,BD,TUMVS,Operator Violated Signal
+1006,BAY STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1007,ST CLAIR STATION,YU,EUSC,Speed Control Equipment  
+1008,KENNEDY BD STATION,BD,MUSC,Miscellaneous Speed Control
+1009,CHRISTIE STATION,BD,SUAP,Assault / Patron Involved
+1010,ST ANDREW STATION,YU,SUDP,Disorderly Patron
+1011,ST PATRICK STATION,YU,SUPOL,Held By Polce - Non-TTC Related
+1012,CHESTER STATION,BD,SUDP,Disorderly Patron
+1013,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+1014,LANSDOWNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1015,OSSINGTON STATION,BD,SUDP,Disorderly Patron
+1016,FINCH STATION,YU,TUSC,Operator Overspeeding
+1017,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1018,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1019,BROADVIEW STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1020,YORKDALE STATION,YU,MUATC,ATC Project
+1021,WILSON HOSTLER ,YU,MUATC,ATC Project
+1022,SHEPPARD WEST STATION,YU,TUO,Transportation Department - Other
+1023,QUEEN STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1024,EGLINTON STATION,YU,MUO,Miscellaneous Other
+1025,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+1026,ST GEORGE YUS STATION,YU,SUDP,Disorderly Patron
+1027,CASTLE FRANK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1028,ST GEORGE BD STATION,BD,SUO,Passenger Other
+1029,KENNEDY BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1030,YORK UNIVERSITY STATIO,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1031,SHERBOURNE STATION,BD,SUEAS,Emergency Alarm Station Activation
+1032,BLOOR STATION,YU,SUROB,Robbery
+1033,YONGE BD STATION,BD,SUO,Passenger Other
+1034,BAYVIEW STATION,SHP,EUSC,Speed Control Equipment  
+1035,WOODBINE STATION,BD,SUUT,Unauthorized at Track Level
+1036,COLLEGE STATION,YU,SUDP,Disorderly Patron
+1037,EGLINTON STATION,YU,SUDP,Disorderly Patron
+1038,EGLINTON STATION,YU,PUTWZ,Work Zone Problems - Track
+1039,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1040,YORK MILLS STATION,YU,TUMVS,Operator Violated Signal
+1041,KENNEDY BD STATION,BD,TUMVS,Operator Violated Signal
+1042,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+1043,ST GEORGE YUS STATION,YU,MUATC,ATC Project
+1044,ST GEORGE YUS STATION,YU,MUATC,ATC Project
+1045,ST CLAIR WEST STATION,YU,EUDO,Door Problems - Faulty Equipment
+1046,ST GEORGE YUS STATION,YU,SUDP,Disorderly Patron
+1047,PAPE STATION,BD,SUDP,Disorderly Patron
+1048,KENNEDY BD STATION,BD,EUAC,Air Conditioning
+1049,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1050,YONGE BD STATION,BD,SUDP,Disorderly Patron
+1051,BLOOR STATION,YU,SUDP,Disorderly Patron
+1052,BAY STATION,BD,SUDP,Disorderly Patron
+1053,VAUGHAN MC STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1054,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+1055,JANE STATION,BD,SUDP,Disorderly Patron
+1056,DUNDAS STATION,YU,SUUT,Unauthorized at Track Level
+1057,KENNEDY BD STATION,BD,EUNT,Equipment - No Trouble Found
+1058,WOODBINE STATION,BD,EUSC,Speed Control Equipment  
+1059,SHEPPARD WEST STATION,YU,PUMO,Station Other
+1060,JANE STATION,BD,EUSC,Speed Control Equipment  
+1061,OLD MILL STATION,BD,EUSC,Speed Control Equipment  
+1062,KIPLING STATION,BD,EUO,RC&S Other
+1063,WILSON STATION,YU,SUCOL,Collector Booth Alarm Activated
+1064,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1065,SHERBOURNE STATION,BD,SUO,Passenger Other
+1066,CHESTER STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1067,KEELE STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1068,FINCH STATION,YU,EUBO,Body
+1069,OSSINGTON STATION,BD,SUAP,Assault / Patron Involved
+1070,QUEEN STATION,YU,SUUT,Unauthorized at Track Level
+1071,YONGE BD STATION,BD,TUKEY,Two Drum Switch Keys Activated
+1072,YONGE BD STATION,BD,TUS,Crew Unable to Maintain Schedule
+1073,WARDEN STATION,BD,TUS,Crew Unable to Maintain Schedule
+1074,LAWRENCE WEST STATION,YU,TUSC,Operator Overspeeding
+1075,QUEEN STATION,YU,SUDP,Disorderly Patron
+1076,ST CLAIR WEST STATION,YU,SUO,Passenger Other
+1077,SUMMERHILL STATION,YU,SUDP,Disorderly Patron
+1078,ROYAL YORK STATION,BD,EUSC,Speed Control Equipment  
+1079,ST CLAIR STATION,YU,TUOS,Operator Overshot Platform
+1080,ST GEORGE BD STATION,BD,SUDP,Disorderly Patron
+1081,KENNEDY BD STATION,BD,SUDP,Disorderly Patron
+1082,VICTORIA PARK STATION,BD,MUDD,Door Problems - Debris Related
+1083,ROSEDALE STATION,YU,TUOS,Operator Overshot Platform
+1084,DAVISVILLE STATION,YU,SUDP,Disorderly Patron
+1085,SUMMERHILL STATION,YU,MUSAN,Unsanitary Vehicle
+1086,LAWRENCE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1087,YONGE BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1088,COXWELL STATION,BD,SUUT,Unauthorized at Track Level
+1089,ST GEORGE BD STATION,BD,SUDP,Disorderly Patron
+1090,LAWRENCE STATION,YU,SUUT,Unauthorized at Track Level
+1091,ST GEORGE YUS STATION,YU,EUDO,Door Problems - Faulty Equipment
+1092,WARDEN TO VICTORIA PAR,BD,EUVE,Work Vehicle
+1093,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1094,ST GEORGE YUS STATION,YU,MUATC,ATC Project
+1095,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1096,BLOOR STATION,YU,TUSC,Operator Overspeeding
+1097,YONGE BD STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1098,SPADINA YUS STATION,YU,MUATC,ATC Project
+1099,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1100,YONGE BD STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1101,EGLINTON STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1102,HIGHWAY 407 STATION,YU,SUSP,Suspicious Package
+1103,BROADVIEW STATION,BD,TUMVS,Operator Violated Signal
+1104,WELLESLEY STATION,YU,SUDP,Disorderly Patron
+1105,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+1106,ST CLAIR WEST STATION,YU,SUAP,Assault / Patron Involved
+1107,BATHURST STATION,BD,EUVA,Warning Alarm Systems
+1108,KIPLING STATION,BD,EUBK,Brakes
+1109,WELLESLEY STATION,YU,SUUT,Unauthorized at Track Level
+1110,YONGE BD STATION,BD,SUUT,Unauthorized at Track Level
+1111,SPADINA BD STATION,BD,SUG,Graffiti / Scratchiti
+1112,COLLEGE STATION,YU,TUMVS,Operator Violated Signal
+1113,COXWELL STATION,BD,SUDP,Disorderly Patron
+1114,YONGE SHP STATION,SHP,TUSC,Operator Overspeeding
+1115,KENNEDY BD STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1116,FINCH STATION,YU,SUDP,Disorderly Patron
+1117,OSSINGTON STATION,BD,TUSC,Operator Overspeeding
+1118,BLOOR STATION,YU,MUPLC,Fire/Smoke Plan C
+1119,YONGE BD STATION,BD,MUPLC,Fire/Smoke Plan C
+1120,YONGE SHP STATION,SHP,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1121,YONGE SHP STATION,SHP,TUCC,Transit Control Related Problems
+1122,WILSON STATION,YU,TUNIP,Operator Not In Position
+1123,WARDEN STATION,BD,TUKEY,Two Drum Switch Keys Activated
+1124,DON MILLS STATION,SHP,TUOPO,OPTO Operator Related
+1125,VICTORIA PARK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1126,SHEPPARD STATION,YU,TUO,Transportation Department - Other
+1127,ST GEORGE YUS STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1128,ST CLAIR WEST STATION,YU,MUATC,ATC Project
+1129,BLOOR STATION,YU,MUSAN,Unsanitary Vehicle
+1130,BATHURST STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1131,DUNDAS WEST STATION,BD,SUAP,Assault / Patron Involved
+1132,BLOOR STATION,YU,EUDO,Door Problems - Faulty Equipment
+1133,GREENWOOD YARD,BD,MUIE,Injured Employee
+1134,VAUGHAN MC STATION,YU,EUTRD,TR Cab Doors
+1135,FINCH STATION,YU,TUSUP,Supervisory Error
+1136,KENNEDY BD STATION,BD,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+1137,SHEPPARD STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1138,COLLEGE STATION,YU,SUDP,Disorderly Patron
+1139,VAUGHAN MC STATION,YU,MUSAN,Unsanitary Vehicle
+1140,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1141,VICTORIA PARK STATION,BD,EUOE,Rail Cars & Shops Opr. Error
+1142,SHEPPARD STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1143,YORKDALE STATION,YU,SUEAS,Emergency Alarm Station Activation
+1144,SHEPPARD WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1145,CASTLE FRANK STATION,BD,MUSAN,Unsanitary Vehicle
+1146,WILSON STATION,YU,SUDP,Disorderly Patron
+1147,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1148,DONLANDS STATION,BD,PUTOE,T & S Operator Related Problems
+1149,SCARBOROUGH CTR STATIO,SRT,ERTC,Train Control - VOBC
+1150,ELLESMERE STATION,SRT,ERTC,Train Control - VOBC
+1151,KENNEDY SRT STATION,SRT,ERTC,Train Control - VOBC
+1152,EGLINTON STATION,YU,MUSC,Miscellaneous Speed Control
+1153,HIGH PARK STATION,BD,SUUT,Unauthorized at Track Level
+1154,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+1155,SHEPPARD WEST STATION,YU,TUO,Transportation Department - Other
+1156,VAUGHAN MC STATION,YU,MUATC,ATC Project
+1157,KIPLING STATION,BD,TUSC,Operator Overspeeding
+1158,SHEPPARD WEST STATION,YU,MUSC,Miscellaneous Speed Control
+1159,COXWELL STATION,BD,SUO,Passenger Other
+1160,KENNEDY BD STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1161,ST CLAIR STATION,YU,EUDO,Door Problems - Faulty Equipment
+1162,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1163,UNION STATION,YU,MUATC,ATC Project
+1164,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1165,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+1166,WOODBINE STATION,BD,SUDP,Disorderly Patron
+1167,MAIN STREET STATION,BD,SUDP,Disorderly Patron
+1168,EGLINTON STATION,YU,TUMVS,Operator Violated Signal
+1169,ST GEORGE YUS STATION,YU,SUDP,Disorderly Patron
+1170,UNION STATION,YU,PUTWZ,Work Zone Problems - Track
+1171,BLOOR STATION,YU,SUSA,Sexual Assault
+1172,ST CLAIR WEST STATION,YU,SUDP,Disorderly Patron
+1173,PIONEER VILLAGE STATIO,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1174,FINCH STATION,YU,PUSWZ,Work Zone Problems - Signals
+1175,WELLESLEY STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1176,YORK MILLS STATION,YU,SUO,Passenger Other
+1177,COXWELL STATION,BD,TUKEY,Two Drum Switch Keys Activated
+1178,SHEPPARD WEST STATION,YU,TUO,Transportation Department - Other
+1179,WILSON STATION,YU,MUATC,ATC Project
+1180,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1181,KIPLING STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1182,BAY STATION,BD,SUO,Passenger Other
+1183,KEELE STATION,BD,MUSC,Miscellaneous Speed Control
+1184,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1185,GREENWOOD YARD,BD,MUO,Miscellaneous Other
+1186,BLOOR STATION,YU,SUDP,Disorderly Patron
+1187,KENNEDY BD STATION,BD,TUNOA,No Operator Immediately Available 
+1188,UNION STATION,YU,SUCOL,Collector Booth Alarm Activated
+1189,CHRISTIE STATION,BD,TUSC,Operator Overspeeding
+1190,ST CLAIR WEST STATION,YU,PUSSW,Track Switch Failure - Signal Related Problem
+1191,LAWRENCE STATION,YU,SUDP,Disorderly Patron
+1192,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+1193,DUNDAS WEST STATION,BD,MUPR1,Priority One - Train in Contact With Person
+1194,MCCOWAN STATION,SRT,TRNIP,Operator Not In Position
+1195,YORKDALE STATION,YU,SUDP,Disorderly Patron
+1196,EGLINTON STATION,YU,PUSTS,Signals - Train Stops
+1197,LAWRENCE STATION,YU,TUSC,Operator Overspeeding
+1198,NORTH YORK CTR STATION,YU,EUDO,Door Problems - Faulty Equipment
+1199,DOWNSVIEW PARK STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+1200,SHEPPARD STATION,YU,SUDP,Disorderly Patron
+1201,ELLESMERE STATION,SRT,MRO,Miscellaneous Other
+1202,WOODBINE STATION,BD,EUPI,Propulsion System
+1203,WARDEN STATION,BD,EUCD,Consequential Delay (2nd Delay Same Fault)
+1204,EGLINTON STATION,YU,TUMVS,Operator Violated Signal
+1205,KENNEDY BD STATION,BD,TUO,Transportation Department - Other
+1206,ST GEORGE BD STATION,BD,MUSAN,Unsanitary Vehicle
+1207,SHEPPARD STATION,YU,TUSC,Operator Overspeeding
+1208,SHERBOURNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1209,COXWELL STATION,BD,TUNIP,Operator Not In Position
+1210,YORK MILLS STATION,YU,SUDP,Disorderly Patron
+1211,DUNDAS WEST STATION,BD,TUO,Transportation Department - Other
+1212,KENNEDY BD STATION,BD,SUDP,Disorderly Patron
+1213,LAWRENCE STATION,YU,PUTD,Track Level Debris - Controllable
+1214,MCCOWAN STATION,SRT,MRO,Miscellaneous Other
+1215,GREENWOOD WYE,BD,TUMVS,Operator Violated Signal
+1216,LAWRENCE STATION,YU,SUDP,Disorderly Patron
+1217,FINCH STATION,YU,TUMVS,Operator Violated Signal
+1218,VICTORIA PARK STATION,BD,SUAP,Assault / Patron Involved
+1219,YONGE BD STATION,BD,SUDP,Disorderly Patron
+1220,DONLANDS STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1221,KEELE STATION,BD,SUAP,Assault / Patron Involved
+1222,FINCH STATION,YU,SUDP,Disorderly Patron
+1223,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+1224,WARDEN STATION,BD,TUOS,Operator Overshot Platform
+1225,GREENWOOD WYE,BD,EUME,RC&S Maintenance Error - (Human)
+1226,SHERBOURNE STATION,BD,SUUT,Unauthorized at Track Level
+1227,LANSDOWNE STATION,BD,SUAP,Assault / Patron Involved
+1228,KIPLING STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1229,WILSON STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1230,ST GEORGE BD STATION,BD,MUO,Miscellaneous Other
+1231,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+1232,QUEEN ALBERT,YU,SUCOL,Collector Booth Alarm Activated
+1233,KENNEDY BD STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1234,WELLESLEY STATION,YU,SUUT,Unauthorized at Track Level
+1235,CHRISTIE STATION,BD,SUDP,Disorderly Patron
+1236,YONGE BD STATION,BD,EUSC,Speed Control Equipment  
+1237,BLOOR STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1238,KEELE STATION,BD,EUSC,Speed Control Equipment  
+1239,OSSINGTON STATION,BD,SUDP,Disorderly Patron
+1240,KENNEDY SRT STATION,SRT,PRSA,Axle Counter Related
+1241,SPADINA STATION YUS,YU,EUBK,Brakes
+1242,ST PATRICK STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1243,COXWELL STATION,BD,SUDP,Disorderly Patron
+1244,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1245,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1246,SHEPPARD STATION,YU,EUO,RC&S Other
+1247,ISLINGTON STATION,BD,EUPI,Propulsion System
+1248,NORTH YORK CTR STATION,YU,SUDP,Disorderly Patron
+1249,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+1250,DOWNSVIEW PARK STATION,YU,MUATC,ATC Project
+1251,MIDLAND STATION,SRT,SRUT,Unauthorized at Track Level
+1252,FINCH STATION,YU,TUMVS,Operator Violated Signal
+1253,COLLEGE STATION,YU,SUAP,Assault / Patron Involved
+1254,KENNEDY BD STATION,BD,SUDP,Disorderly Patron
+1255,KIPLING STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1256,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1257,VICTORIA PARK STATION,BD,SUDP,Disorderly Patron
+1258,KENNEDY BD STATION,BD,MUSAN,Unsanitary Vehicle
+1259,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1260,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+1261,KIPLING STATION,BD,TUO,Transportation Department - Other
+1262,DAVISVILLE STATION,YU,PUTDN,#N/A
+1263,WILSON STATION,YU,TUNIP,Operator Not In Position
+1264,BLOOR STATION,YU,SUAE,Assault / Employee Involved
+1265,BLOOR STATION,YU,SUDP,Disorderly Patron
+1266,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1267,LANSDOWNE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1268,LAWRENCE STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1269,DON MILLS STATION,SHP,SUAE,Assault / Employee Involved
+1270,SHERBOURNE STATION,BD,SUUT,Unauthorized at Track Level
+1271,DON MILLS STATION,SHP,TUOPO,OPTO Operator Related
+1272,WOODBINE STATION,BD,SUAP,Assault / Patron Involved
+1273,WARDEN STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1274,WOODBINE STATION,BD,SUDP,Disorderly Patron
+1275,KEELE STATION,BD,MUSC,Miscellaneous Speed Control
+1276,WELLESLEY STATION,YU,EUDO,Door Problems - Faulty Equipment
+1277,FINCH WEST STATION,YU,MUSAN,Unsanitary Vehicle
+1278,VICTORIA PARK STATION,BD,PUTDN,#N/A
+1279,FINCH STATION,YU,TUSC,Operator Overspeeding
+1280,DAVISVILLE STATION,YU,PUTO,T&S Other
+1281,FINCH STATION,YU,SUG,Graffiti / Scratchiti
+1282,MCCOWAN STATION,SRT,ERTB,Track Brakes
+1283,GREENWOOD STATION,BD,EUME,RC&S Maintenance Error - (Human)
+1284,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1285,KIPLING STATION,BD,TUNIP,Operator Not In Position
+1286,OLD MILL STATION,BD,PUSNT,Signal Problem - No Trouble
+1287,KENNEDY BD STATION,BD,TUSC,Operator Overspeeding
+1288,ISLINGTON STATION,BD,PUSWZ,Work Zone Problems - Signals
+1289,YORK MILLS STATION,YU,SUDP,Disorderly Patron
+1290,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1291,LANSDOWNE STATION,BD,EUNT,Equipment - No Trouble Found
+1292,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+1293,COXWELL STATION,BD,MUCL,Divisional Clerk Related
+1294,WARDEN STATION,BD,SUUT,Unauthorized at Track Level
+1295,WARDEN STATION,BD,SUDP,Disorderly Patron
+1296,ROYAL YORK STATION,BD,SUG,Graffiti / Scratchiti
+1297,DUNDAS WEST STATION,BD,SUEAS,Emergency Alarm Station Activation
+1298,SHEPPARD WEST STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1299,DAVISVILLE STATION,YU,EUVE,Work Vehicle
+1300,UNION STATION,YU,TUO,Transportation Department - Other
+1301,FINCH STATION,YU,EUBK,Brakes
+1302,DUNDAS STATION,YU,EUSC,Speed Control Equipment  
+1303,COLLEGE STATION,YU,EUSC,Speed Control Equipment  
+1304,COXWELL STATION,BD,TUNIP,Operator Not In Position
+1305,COXWELL STATION,BD,MUSAN,Unsanitary Vehicle
+1306,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+1307,CASTLE FRANK STATION,BD,EUDO,Door Problems - Faulty Equipment
+1308,FINCH STATION,YU,EUSC,Speed Control Equipment  
+1309,WARDEN STATION,BD,MUDD,Door Problems - Debris Related
+1310,DON MILLS STATION,SHP,PUMO,Station Other
+1311,WILSON STATION,YU,SUDP,Disorderly Patron
+1312,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1313,ST CLAIR STATION,YU,SUUT,Unauthorized at Track Level
+1314,EGLINTON STATION,YU,TUSC,Operator Overspeeding
+1315,FINCH STATION,YU,TUSC,Operator Overspeeding
+1316,KENNEDY BD STATION,BD,PUSRA,Subway Radio System Fault 
+1317,ST CLAIR STATION,YU,PUCSC,Signal Control Problem - Signals
+1318,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+1319,ROSEDALE STATION,YU,TUOS,Operator Overshot Platform
+1320,NORTH YORK CTR STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+1321,YONGE BD STATION,BD,MUD,Door Problems - Passenger Related
+1322,WILSON STATION,YU,MUATC,ATC Project
+1323,DONLANDS STATION,BD,EUSC,Speed Control Equipment  
+1324,KING STATION,YU,SUUT,Unauthorized at Track Level
+1325,KENNEDY BD STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1326,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+1327,SHEPPARD STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1328,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+1329,DAVISVILLE STATION,YU,PUTR,Rail Related Problem
+1330,DAVISVILLE STATION,YU,PUTR,Rail Related Problem
+1331,DAVISVILLE STATION,YU,PUTR,Rail Related Problem
+1332,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+1333,PIONEER VILLAGE STATIO,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1334,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1335,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+1336,OSSINGTON STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1337,SHEPPARD-YONGE STATION,SHP,TUMVS,Operator Violated Signal
+1338,JANE STATION,BD,TUO,Transportation Department - Other
+1339,EGLINTON STATION,YU,PUTO,T&S Other
+1340,MAIN STREET STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1341,PAPE STATION,BD,EUAC,Air Conditioning
+1342,KEELE STATION,BD,PUSO,S/E/C Department Other
+1343,KIPLING STATION,BD,SUDP,Disorderly Patron
+1344,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1345,ST GEORGE YUS STATION,YU,SUDP,Disorderly Patron
+1346,VICTORIA PARK STATION,BD,PUSNT,Signal Problem - No Trouble
+1347,QUEEN STATION,YU,MUATC,ATC Project
+1348,GLENCAIRN STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1349,KENNEDY BD STATION,BD,SUDP,Disorderly Patron
+1350,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1351,LANSDOWNE STATION,BD,SUDP,Disorderly Patron
+1352,ST GEORGE YUS STATION,YU,MUATC,ATC Project
+1353,SHEPPARD STATION,YU,SUDP,Disorderly Patron
+1354,EGLINTON STATION,YU,SUDP,Disorderly Patron
+1355,LESLIE STATION,SHP,TUO,Transportation Department - Other
+1356,SUMMERHILL STATION,YU,MUO,Miscellaneous Other
+1357,DON MILLS STATION,SHP,MUSAN,Unsanitary Vehicle
+1358,WARDEN STATION,BD,MUDD,Door Problems - Debris Related
+1359,QUEEN STATION,YU,MUATC,ATC Project
+1360,HIGH PARK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1361,COLLEGE STATION,YU,TUOS,Operator Overshot Platform
+1362,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1363,SHEPPARD STATION,YU,EUSC,Speed Control Equipment  
+1364,ST CLAIR STATION,YU,MUO,Miscellaneous Other
+1365,DON MILLS STATION,SHP,TUMVS,Operator Violated Signal
+1366,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+1367,ST GEORGE YUS STATION,YU,SUDP,Disorderly Patron
+1368,CHESTER STATION,BD,SUDP,Disorderly Patron
+1369,OSSINGTON STATION,BD,TUCC,Transit Control Related Problems
+1370,BLOOR STATION,YU,PUTO,T&S Other
+1371,SHEPPARD-YONGE STATION,SHP,TUMVS,Operator Violated Signal
+1372,COLLEGE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1373,OLD MILL STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1374,DUNDAS STATION,YU,SUDP,Disorderly Patron
+1375,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+1376,BROADVIEW STATION,BD,SUUT,Unauthorized at Track Level
+1377,SPADINA YUS STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1378,EGLINTON STATION,YU,SUDP,Disorderly Patron
+1379,LAWRENCE WEST STATION,YU,SUDP,Disorderly Patron
+1380,WARDEN STATION,BD,SUDP,Disorderly Patron
+1381,QUEEN STATION,YU,MUO,Miscellaneous Other
+1382,OSGOODE STATION,YU,SUDP,Disorderly Patron
+1383,EGLINTON WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1384,ST GEORGE BD STATION,BD,PUTDN,#N/A
+1385,HIGH PARK STATION,BD,SUDP,Disorderly Patron
+1386,ROYAL YORK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1387,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1388,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1389,QUEEN'S PARK STATION,YU,SUDP,Disorderly Patron
+1390,BLOOR TO EGLINTON,YU,MUO,Miscellaneous Other
+1391,DONLANDS STATION,BD,EUME,RC&S Maintenance Error - (Human)
+1392,DAVISVILLE YARD,YU,PUSWZ,Work Zone Problems - Signals
+1393,FINCH STATION,YU,TUSC,Operator Overspeeding
+1394,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+1395,BLOOR STATION,YU,SUO,Passenger Other
+1396,KIPLING STATION,BD,TUMVS,Operator Violated Signal
+1397,FINCH STATION,YU,SUAP,Assault / Patron Involved
+1398,YORKDALE STATION,YU,SUDP,Disorderly Patron
+1399,MCCOWAN STATION,SRT,TRNIP,Operator Not In Position
+1400,DUFFERIN STATION,BD,MUD,Door Problems - Passenger Related
+1401,ST GEORGE YUS STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1402,ST GEORGE BD STATION,BD,SUDP,Disorderly Patron
+1403,NORTH YORK CTR STATION,YU,EUSC,Speed Control Equipment  
+1404,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+1405,BLOOR STATION,YU,SUDP,Disorderly Patron
+1406,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+1407,YORK UNIVERSITY STATIO,YU,SUDP,Disorderly Patron
+1408,SHEPPARD STATION,YU,EUSC,Speed Control Equipment  
+1409,ST CLAIR STATION,YU,MUO,Miscellaneous Other
+1410,LAWRENCE WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1411,BAYVIEW STATION,SHP,MUSC,Miscellaneous Speed Control
+1412,KENNEDY BD STATION,BD,SUG,Graffiti / Scratchiti
+1413,FINCH STATION,YU,TUSC,Operator Overspeeding
+1414,YORK MILLS STATION,YU,EUNT,Equipment - No Trouble Found
+1415,EGLINTON STATION,YU,TUNIP,Operator Not In Position
+1416,WILSON STATION,YU,TUNIP,Operator Not In Position
+1417,WILSON STATION,YU,TUNIP,Operator Not In Position
+1418,FINCH STATION,YU,EUSC,Speed Control Equipment  
+1419,COLLEGE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1420,ST CLAIR STATION,YU,EUDO,Door Problems - Faulty Equipment
+1421,DAVISVILLE STATION,YU,EUO,RC&S Other
+1422,VICTORIA PARK STATION,BD,SUCOL,Collector Booth Alarm Activated
+1423,BLOOR STATION,YU,SUDP,Disorderly Patron
+1424,KING STATION,YU,MUIS,Injured or ill Customer (In Station) - Transported
+1425,SHEPPARD WEST STATION,YU,MUSAN,Unsanitary Vehicle
+1426,ROSEDALE STATION,YU,MUSAN,Unsanitary Vehicle
+1427,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+1428,DUNDAS STATION,YU,SUAP,Assault / Patron Involved
+1429,ST CLAIR STATION,YU,MUSC,Miscellaneous Speed Control
+1430,ST CLAIR TO UNION STAT,YU,MUO,Miscellaneous Other
+1431,ST GEORGE YUS STATION,YU,SUDP,Disorderly Patron
+1432,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+1433,FINCH STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1434,YONGE STATION,BD,SUDP,Disorderly Patron
+1435,BROADVIEW STATION,BD,SUUT,Unauthorized at Track Level
+1436,EGLINTON STATION,YU,MUO,Miscellaneous Other
+1437,CHRISTIE STATION,BD,TUMVS,Operator Violated Signal
+1438,ROSEDALE STATION,YU,PUSTC,Signals - Track Circuit Problems
+1439,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1440,BLOOR STATION,YU,TUSC,Operator Overspeeding
+1441,BLOOR STATION,YU,PUSTC,Signals - Track Circuit Problems
+1442,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+1443,BLOOR STATION,YU,PUSTC,Signals - Track Circuit Problems
+1444,FINCH STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1445,SHEPPARD STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1446,BROADVIEW STATION,BD,PUSWZ,Work Zone Problems - Signals
+1447,ROSEDALE STATION,YU,SUO,Passenger Other
+1448,WARDEN STATION,BD,SUAP,Assault / Patron Involved
+1449,WARDEN STATION,BD,SUAP,Assault / Patron Involved
+1450,DUNDAS STATION,YU,EUSC,Speed Control Equipment  
+1451,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+1452,NORTH YORK CTR STATION,YU,MUSC,Miscellaneous Speed Control
+1453,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1454,ST ANDREW STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1455,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+1456,SPADINA BD STATION,BD,MUD,Door Problems - Passenger Related
+1457,BAYVIEW STATION,SHP,MUSC,Miscellaneous Speed Control
+1458,YONGE BD STATION,BD,SUUT,Unauthorized at Track Level
+1459,DONLANDS STATION,BD,PUSTS,Signals - Train Stops
+1460,FINCH STATION,YU,TUSC,Operator Overspeeding
+1461,SPADINA YUS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1462,ROYAL YORK STATION,BD,EUDO,Door Problems - Faulty Equipment
+1463,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1464,WELLESLEY STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1465,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1466,SHEPPARD STATION,YU,SUAP,Assault / Patron Involved
+1467,SHERBOURNE STATION,BD,MUSAN,Unsanitary Vehicle
+1468,QUEEN STATION,YU,MUO,Miscellaneous Other
+1469,KENNEDY SRT STATION,SRT,ERTC,Train Control - VOBC
+1470,KENNEDY SRT STATION,SRT,ERTC,Train Control - VOBC
+1471,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+1472,DUNDAS STATION,YU,SUPOL,Held By Polce - Non-TTC Related
+1473,KENNEDY BD STATION,BD,TUCC,Transit Control Related Problems
+1474,YORKDALE STATION,YU,SUUT,Unauthorized at Track Level
+1475,QUEEN'S PARK STATION,YU,SUDP,Disorderly Patron
+1476,BROADVIEW STATION,BD,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1477,BROADVIEW STATION,BD,MUSC,Miscellaneous Speed Control
+1478,CHRISTIE STATION,BD,MUSC,Miscellaneous Speed Control
+1479,VICTORIA PARK STATION,BD,PUSTS,Signals - Train Stops
+1480,YONGE - SHEPPARD (LEAV,SHP,MUTD,Training Department Related Delays
+1481,KENNEDY BD STATION,BD,MUSAN,Unsanitary Vehicle
+1482,DAVISVILLE STATION,YU,SUUT,Unauthorized at Track Level
+1483,FINCH STATION,YU,TUNIP,Operator Not In Position
+1484,DAVISVILLE STATION,YU,TUOS,Operator Overshot Platform
+1485,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1486,EGLINTON STATION,YU,TUMVS,Operator Violated Signal
+1487,SHERBOURNE STATION,BD,SUO,Passenger Other
+1488,SHERBOURNE STATION,BD,SUO,Passenger Other
+1489,DUNDAS STATION,YU,TUOS,Operator Overshot Platform
+1490,CHRISTIE STATION,BD,SUAP,Assault / Patron Involved
+1491,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1492,FINCH WEST STATION,YU,SUDP,Disorderly Patron
+1493,MCCOWAN STATION,SRT,ERTC,Train Control - VOBC
+1494,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1495,EGLINTON STATION,YU,MUSC,Miscellaneous Speed Control
+1496,FINCH STATION,YU,TUSC,Operator Overspeeding
+1497,SPADINA BD STATION,BD,SUDP,Disorderly Patron
+1498,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+1499,BLOOR STATION,YU,SUCOL,Collector Booth Alarm Activated
+1500,YONGE BD STATION,BD,SUCOL,Collector Booth Alarm Activated
+1501,RUNNYMEDE STATION,BD,MUSC,Miscellaneous Speed Control
+1502,DON MILLS STATION,SHP,TUSC,Operator Overspeeding
+1503,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+1504,OLD MILL STATION,BD,MUSC,Miscellaneous Speed Control
+1505,FINCH WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1506,HIGH PARK STATION,BD,MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused
+1507,KIPLING STATION,BD,TUNIP,Operator Not In Position
+1508,WELLESLEY STATION,YU,SUDP,Disorderly Patron
+1509,JANE STATION,BD,TUO,Transportation Department - Other
+1510,YONGE BD STATION,BD,SUDP,Disorderly Patron
+1511,KIPLING STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1512,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1513,EGLINTON STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1514,ST CLAIR STATION,YU,MUO,Miscellaneous Other
+1515,ST CLAIR STATION,YU,MUO,Miscellaneous Other
+1516,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1517,ROYAL YORK STATION,YU,TUSC,Operator Overspeeding
+1518,ST CLAIR STATION,BD,EUSC,Speed Control Equipment  
+1519,ROYAL YORK STATION,YU,TUSC,Operator Overspeeding
+1520,ST GEORGE BD STATION,BD,TUMVS,Operator Violated Signal
+1521,COLLEGE STATION,BD,MUPR1,Priority One - Train in Contact With Person
+1522,YORK MILLS STATION,YU,MUSC,Miscellaneous Speed Control
+1523,QUEEN STATION,YU,SUDP,Disorderly Patron
+1524,NORTH YORK CTR STATION,YU,SUCOL,Collector Booth Alarm Activated
+1525,HIGH PARK STATION,YU,SUROB,Robbery
+1526,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1527,DAVISVILLE STATION,YU,MUSC,Miscellaneous Speed Control
+1528,CHRISTIE STATION,BD,SUDP,Disorderly Patron
+1529,ISLINGTON STATION,BD,MUD,Door Problems - Passenger Related
+1530,SHEPPARD STATION,YU,SUDP,Disorderly Patron
+1531,YORK MILLS STATION,YU,TUOS,Operator Overshot Platform
+1532,DAVISVILLE STATION,YU,PUSTS,Signals - Train Stops
+1533,BAY STATION,BD,SUDP,Disorderly Patron
+1534,SHERBOURNE STATION,BD,SUO,Passenger Other
+1535,OSSINGTON STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1536,YORK MILLS STATION,YU,SUDP,Disorderly Patron
+1537,EGLINTON STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1538,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+1539,QUEEN STATION,YU,SUEAS,Emergency Alarm Station Activation
+1540,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1541,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+1542,ST GEORGE YUS STATION,YU,SUUT,Unauthorized at Track Level
+1543,LAWRENCE STATION,YU,EUSC,Speed Control Equipment  
+1544,KIPLING STATION,BD,TUO,Transportation Department - Other
+1545,ST ANDREW STATION,YU,SUDP,Disorderly Patron
+1546,KIPLING STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1547,COLLEGE STATION,YU,PUSNT,Signal Problem - No Trouble
+1548,SHEPPARD-YONGE STATION,SHP,TUMVS,Operator Violated Signal
+1549,VICTORIA PARK STATION,BD,MUSC,Miscellaneous Speed Control
+1550,ROSEDALE STATION,YU,PUSNT,Signal Problem - No Trouble
+1551,LAWRENCE STATION,YU,SUDP,Disorderly Patron
+1552,YORK MILLS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1553,EGLINTON STATION,YU,MUCL,Divisional Clerk Related
+1554,EGLINTON STATION,YU,MUSC,Miscellaneous Speed Control
+1555,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+1556,LAWRENCE STATION,YU,SUUT,Unauthorized at Track Level
+1557,FINCH STATION,YU,EUBO,Body
+1558,COLLEGE STATION,YU,TUMVS,Operator Violated Signal
+1559,CASTLE FRANK STATION,BD,SUDP,Disorderly Patron
+1560,KENNEDY BD STATION,BD,MUSC,Miscellaneous Speed Control
+1561,KENNEDY SRT STATION,SRT,SRUT,Unauthorized at Track Level
+1562,MCCOWAN STATION,SRT,ERNT,Equipment - No Trouble Found
+1563,CASTLE FRANK STATION,BD,TUOS,Operator Overshot Platform
+1564,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+1565,BESSARION STATION,SHP,MUDD,Door Problems - Debris Related
+1566,JANE STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1567,KENNEDY TO MCCOWAN,SRT,ERPR,Propulsion System
+1568,DON MILLS STATION,SHP,PUSO,S/E/C Department Other
+1569,KEELE STATION,BD,MUSC,Miscellaneous Speed Control
+1570,CHRISTIE STATION,BD,TUMVS,Operator Violated Signal
+1571,ST GEORGE BD STATION,BD,TUMVS,Operator Violated Signal
+1572,DAVISVILLE STATION,YU,PUTR,Rail Related Problem
+1573,FINCH STATION,YU,TUSC,Operator Overspeeding
+1574,KENNEDY BD STATION,BD,EUBK,Brakes
+1575,KIPLING STATION,BD,SUDP,Disorderly Patron
+1576,RUNNYMEDE STATION,BD,SUDP,Disorderly Patron
+1577,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+1578,ROSEDALE STATION,YU,PUSTC,Signals - Track Circuit Problems
+1579,WELLESLEY STATION,YU,SUDP,Disorderly Patron
+1580,ROSEDALE STATION,YU,PUSWZ,Work Zone Problems - Signals
+1581,SHERBOURNE STATION,BD,SUDP,Disorderly Patron
+1582,OLD MILL STATION,BD,PUSRA,Subway Radio System Fault 
+1583,COXWELL STATION,BD,TUMVS,Operator Violated Signal
+1584,COLLEGE STATION,YU,TUOS,Operator Overshot Platform
+1585,FINCH WEST STATION,YU,EUATC,ATC RC&S Equipment
+1586,SUMMERHILL STATION,YU,PUTDN,#N/A
+1587,SHEPPARD-YONGE STATION,SHP,SUDP,Disorderly Patron
+1588,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+1589,CHESTER STATION,BD,TUOS,Operator Overshot Platform
+1590,EGLINTON STATION,YU,MUO,Miscellaneous Other
+1591,WILSON STATION,YU,SUDP,Disorderly Patron
+1592,FINCH WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1593,YORK UNIVERSITY STATIO,YU,EUBK,Brakes
+1594,KENNEDY SRT STATION,SRT,ERTC,Train Control - VOBC
+1595,MCCOWAN STATION,SRT,ERCD,Consequential Delay (2nd Delay Same Fault)
+1596,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+1597,COXWELL STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1598,COXWELL TO KENNEDY STA,BD,TUS,Crew Unable to Maintain Schedule
+1599,YORK UNIVERSITY STATIO,YU,EUBK,Brakes
+1600,VAUGHAN MC STATION,YU,MUATC,ATC Project
+1601,ROSEDALE STATION,YU,EUSC,Speed Control Equipment  
+1602,ST ANDREW STATION,YU,SUO,Passenger Other
+1603,OLD MILL STATION,BD,MUPR1,Priority One - Train in Contact With Person
+1604,VICTORIA PARK STATION,BD,TUMVS,Operator Violated Signal
+1605,WOODBINE STATION,BD,MUO,Miscellaneous Other
+1606,FINCH STATION,YU,TUO,Transportation Department - Other
+1607,YONGE BD STATION,BD,TUS,Crew Unable to Maintain Schedule
+1608,VICTORIA PARK STATION,BD,PUSTC,Signals - Track Circuit Problems
+1609,UNION STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1610,GLENCAIRN STATION,YU,SUAP,Assault / Patron Involved
+1611,KIPLING STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1612,WARDEN STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1613,VAUGHAN MC STATION,YU,MUO,Miscellaneous Other
+1614,WARDEN STATION,BD,EUNT,Equipment - No Trouble Found
+1615,DON MILLS STATION,SHP,TUMVS,Operator Violated Signal
+1616,KENNEDY BD STATION,BD,EUBK,Brakes
+1617,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1618,KENNEDY SRT STATION,SRT,SRO,Passenger Other
+1619,UNION STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1620,BROADVIEW STATION,BD,SUDP,Disorderly Patron
+1621,QUEEN STATION,YU,MUATC,ATC Project
+1622,ROSEDALE STATION,YU,MUPLB,Fire/Smoke Plan B - Source TTC
+1623,EGLINTON STATION,YU,MUATC,ATC Project
+1624,DON MILLS STATION,SHP,SUAP,Assault / Patron Involved
+1625,KENNEDY SRT STATION,SRT,SRUT,Unauthorized at Track Level
+1626,UNION STATION,YU,SUO,Passenger Other
+1627,DUNDAS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1628,WARDEN STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1629,YORK MILLS STATION,YU,TUSC,Operator Overspeeding
+1630,KEELE STATION,BD,PUSTS,Signals - Train Stops
+1631,VICTORIA PARK STATION,BD,SUCOL,Collector Booth Alarm Activated
+1632,ST GEORGE BD STATION,BD,EUDO,Door Problems - Faulty Equipment
+1633,SPADINA BD STATION,BD,MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused
+1634,SPADINA YUS STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1635,QUEEN STATION,YU,EUATC,ATC RC&S Equipment
+1636,VAUGHAN MC STATION,YU,MUO,Miscellaneous Other
+1637,QUEEN STATION,YU,SUUT,Unauthorized at Track Level
+1638,PAPE STATION,BD,MUSAN,Unsanitary Vehicle
+1639,SPADINA YUS STATION,YU,SUO,Passenger Other
+1640,SPADINA BD STATION,BD,SUAP,Assault / Patron Involved
+1641,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+1642,SHEPPARD WEST STATION,YU,SUDP,Disorderly Patron
+1643,LESLIE STATION,SHP,MUSC,Miscellaneous Speed Control
+1644,EGLINTON STATION,YU,PUTWZ,Work Zone Problems - Track
+1645,YORK MILLS STATION,YU,PUTWZ,Work Zone Problems - Track
+1646,EGLINTON STATION,YU,PUTWZ,Work Zone Problems - Track
+1647,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+1648,CHESTER STATION,BD,EUPI,Propulsion System
+1649,ROYAL YORK STATION,BD,EUSC,Speed Control Equipment  
+1650,DAVISVILLE STATION,YU,PUSI,Signals or Related Components Failure 
+1651,ROYAL YORK STATION,BD,EUSC,Speed Control Equipment  
+1652,DOWNSVIEW PARK STATION,YU,TUCC,Transit Control Related Problems
+1653,EGLINTON STATION,YU,PUSWZ,Work Zone Problems - Signals
+1654,ROYAL YORK STATION,BD,MUSC,Miscellaneous Speed Control
+1655,KENNEDY SRT STATION,SRT,ERDB,Disc Brakes
+1656,KENNEDY SRT STATION,SRT,MRO,Miscellaneous Other
+1657,RUNNYMEDE STATION,BD,TUS,Crew Unable to Maintain Schedule
+1658,COXWELL STATION,BD,TUOS,Operator Overshot Platform
+1659,SHEPPARD STATION,YU,SUUT,Unauthorized at Track Level
+1660,ISLINGTON STATION,BD,TUMVS,Operator Violated Signal
+1661,SHEPPARD STATION,YU,MUO,Miscellaneous Other
+1662,WELLESLEY STATION,YU,TUOS,Operator Overshot Platform
+1663,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+1664,EGLINTON STATION,YU,PUSTS,Signals - Train Stops
+1665,VAUGHAN MC STATION,YU,EUNT,Equipment - No Trouble Found
+1666,UNION STATION,YU,SUDP,Disorderly Patron
+1667,DUNDAS WEST STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1668,FINCH WEST STATION,YU,SUPOL,Held By Polce - Non-TTC Related
+1669,VAUGHAN MC STATION,YU,SUDP,Disorderly Patron
+1670,MIDLAND STATION,SRT,ERDO,Door Problems - Faulty Equipment
+1671,ELLESMERE STATION,SRT,ERCD,Consequential Delay (2nd Delay Same Fault)
+1672,WILSON STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1673,LESLIE STATION,SHP,MUSC,Miscellaneous Speed Control
+1674,KENNEDY SRT STATION,SRT,ERLV,Low Voltage
+1675,EGLINTON STATION,YU,PUSWZ,Work Zone Problems - Signals
+1676,KEELE STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1677,GREENWOOD YARD,BD,PUSSW,Track Switch Failure - Signal Related Problem
+1678,COXWELL STATION,BD,PUSSW,Track Switch Failure - Signal Related Problem
+1679,WARDEN STATION,BD,MUDD,Door Problems - Debris Related
+1680,COXWELL STATION,BD,PUSSW,Track Switch Failure - Signal Related Problem
+1681,COXWELL STATION,BD,PUSSW,Track Switch Failure - Signal Related Problem
+1682,YONGE BD STATION,BD,TUSC,Operator Overspeeding
+1683,KENNEDY BD STATION,BD,TUMVS,Operator Violated Signal
+1684,KIPLING STATION,BD,TUMVS,Operator Violated Signal
+1685,LAWRENCE STATION,YU,MUPR1,Priority One - Train in Contact With Person
+1686,EGLINTON STATION,YU,PUSTS,Signals - Train Stops
+1687,VICTORIA PARK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1688,KIPLING STATION,BD,SUG,Graffiti / Scratchiti
+1689,ST CLAIR STATION,YU,PUSSW,Track Switch Failure - Signal Related Problem
+1690,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+1691,KIPLING STATION,BD,SUDP,Disorderly Patron
+1692,EGLINTON STATION,YU,MUSC,Miscellaneous Speed Control
+1693,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+1694,LESLIE STATION,SHP,TUMVS,Operator Violated Signal
+1695,ST CLAIR WEST STATION,YU,SUDP,Disorderly Patron
+1696,ST ANDREW STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1697,LAWRENCE EAST STATION,SRT,ERDO,Door Problems - Faulty Equipment
+1698,VAUGHAN MC STATION,YU,TUNIP,Operator Not In Position
+1699,BLOOR STATION,YU,MUSC,Miscellaneous Speed Control
+1700,CHRISTIE STATION,BD,SUDP,Disorderly Patron
+1701,YORK MILLS STATION,YU,EUYRD,Yard/Carhouse Related Problems
+1702,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1703,WELLESLEY STATION,YU,PUTS,Structure Related Problem
+1704,JANE STATION,BD,TUSC,Operator Overspeeding
+1705,MAIN STREET STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1706,FINCH STATION,YU,TUSC,Operator Overspeeding
+1707,EGLINTON STATION,YU,PUSNT,Signal Problem - No Trouble
+1708,YORK UNIVERSITY STATIO,YU,EUDO,Door Problems - Faulty Equipment
+1709,SHEPPARD STATION,YU,MUSC,Miscellaneous Speed Control
+1710,DAVISVILLE STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1711,KENNEDY SRT STATION,SRT,ERDB,Disc Brakes
+1712,EGLINTON STATION,YU,PUSO,S/E/C Department Other
+1713,ST CLAIR WEST STATION,YU,MUATC,ATC Project
+1714,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+1715,DAVISVILLE STATION,YU,PUTDN,#N/A
+1716,DUNDAS STATION,YU,PUTR,Rail Related Problem
+1717,COLLEGE STATION,YU,TUMVS,Operator Violated Signal
+1718,DUNDAS STATION,YU,SUO,Passenger Other
+1719,PAPE STATION,BD,EUBK,Brakes
+1720,COLLEGE STATION,YU,TUO,Transportation Department - Other
+1721,WILSON YARD,YU,MUODC,Overhead Door Contact
+1722,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1723,ST GEORGE BD STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1724,BLOOR STATION,YU,EUSC,Speed Control Equipment  
+1725,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+1726,COLLEGE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1727,SHEPPARD WEST STATION,YU,TUNIP,Operator Not In Position
+1728,SUMMERHILL STATION,YU,PUSTC,Signals - Track Circuit Problems
+1729,KING STATION,YU,EUDO,Door Problems - Faulty Equipment
+1730,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1731,NORTH YORK CTR STATION,YU,MUTD,Training Department Related Delays
+1732,BATHURST STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1733,VAUGHAN MC STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1734,SUMMERHILL STATION,YU,PUSTC,Signals - Track Circuit Problems
+1735,KENNEDY SRT STATION,SRT,ERDO,Door Problems - Faulty Equipment
+1736,SUMMERHILL STATION,YU,PUSTC,Signals - Track Circuit Problems
+1737,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+1738,COXWELL STATION,BD,SUDP,Disorderly Patron
+1739,BLOOR STATION,YU,MUO,Miscellaneous Other
+1740,ST GEORGE BD STATION,BD,EUPI,Propulsion System
+1741,WARDEN STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1742,LAWRENCE WEST STATION,YU,EUDO,Door Problems - Faulty Equipment
+1743,COXWELL STATION,BD,EUCD,Consequential Delay (2nd Delay Same Fault)
+1744,PAPE STATION,BD,SUDP,Disorderly Patron
+1745,SUMMERHILL STATION,YU,PUSTC,Signals - Track Circuit Problems
+1746,SUMMERHILL STATION,YU,PUSTC,Signals - Track Circuit Problems
+1747,KENNEDY BD STATION,BD,EUCD,Consequential Delay (2nd Delay Same Fault)
+1748,LAWRENCE WEST STATION,YU,MUATC,ATC Project
+1749,YORKDALE STATION,YU,MUATC,ATC Project
+1750,SUMMERHILL STATION,YU,PUSTC,Signals - Track Circuit Problems
+1751,DAVISVILLE STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1752,LAWRENCE STATION,YU,SUUT,Unauthorized at Track Level
+1753,FINCH STATION,YU,TUMVS,Operator Violated Signal
+1754,YORK MILLS STATION,YU,TUMVS,Operator Violated Signal
+1755,MAIN STREET STATION,BD,SUDP,Disorderly Patron
+1756,OLD MILL STATION,BD,TUMVS,Operator Violated Signal
+1757,YORKDALE STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1758,KEELE STATION,BD,SUO,Passenger Other
+1759,BATHURST STATION,BD,SUEAS,Emergency Alarm Station Activation
+1760,UNION STATION,YU,PUSAC,Signals Axle Counter Block Failure
+1761,ST GEORGE BD STATION,BD,EUME,RC&S Maintenance Error - (Human)
+1762,LAWRENCE STATION,YU,MUSC,Miscellaneous Speed Control
+1763,DUNDAS STATION,YU,MUSC,Miscellaneous Speed Control
+1764,QUEEN STATION,YU,PUTR,Rail Related Problem
+1765,QUEEN STATION,YU,PUTR,Rail Related Problem
+1766,YORK MILLS STATION,YU,EUSC,Speed Control Equipment  
+1767,DUNDAS WEST STATION,BD,TUMVS,Operator Violated Signal
+1768,GLENCAIRN STATION,YU,EUDO,Door Problems - Faulty Equipment
+1769,DON MILLS STATION,SHP,MUTD,Training Department Related Delays
+1770,SUMMERHILL STATION,YU,TUOS,Operator Overshot Platform
+1771,EGLINTON STATION,YU,TUNIP,Operator Not In Position
+1772,SHERBOURNE STATION,BD,PUTTC,Track Circuit Problems - Re: Defective Bolts/Bonding
+1773,SPADINA YUS STATION,YU,SUDP,Disorderly Patron
+1774,DUNDAS STATION,YU,TUO,Transportation Department - Other
+1775,SHERBOURNE STATION,BD,SUDP,Disorderly Patron
+1776,EGLINTON WEST STATION,YU,MUD,Door Problems - Passenger Related
+1777,ST GEORGE BD STATION,BD,MUI,Injured or ill Customer (On Train) - Transported
+1778,BLOOR STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1779,FINCH STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1780,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+1781,GLENCAIRN STATION,YU,EUDO,Door Problems - Faulty Equipment
+1782,NORTH YORK CTR STATION,YU,TUSC,Operator Overspeeding
+1783,RUNNYMEDE STATION,BD,SUDP,Disorderly Patron
+1784,MCCOWAN STATION,SRT,TRO,Transportation Department - Other
+1785,KENNEDY BD STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1786,VICTORIA PARK STATION,BD,SUDP,Disorderly Patron
+1787,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+1788,QUEEN'S PARK STATION,YU,MUPLB,Fire/Smoke Plan B - Source TTC
+1789,SPADINA BD STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1790,DONLANDS STATION,BD,EUSC,Speed Control Equipment  
+1791,MCCOWAN STATION,SRT,MRO,Miscellaneous Other
+1792,MIDLAND STATION,SRT,ERDO,Door Problems - Faulty Equipment
+1793,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1794,FINCH STATION,YU,MUSC,Miscellaneous Speed Control
+1795,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1796,LESLIE STATION,SHP,TUSC,Operator Overspeeding
+1797,MCCOWAN STATION,SRT,ERWA,Warning Alarm Systems
+1798,DUNDAS WEST STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1799,SHEPPARD STATION,YU,PUCSC,Signal Control Problem - Signals
+1800,SHEPPARD STATION,YU,PUCSC,Signal Control Problem - Signals
+1801,VAUGHAN MC STATION,YU,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+1802,SHEPPARD STATION,YU,TUO,Transportation Department - Other
+1803,SHEPPARD STATION,YU,PUCSC,Signal Control Problem - Signals
+1804,CASTLE FRANK STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1805,EGLINTON STATION,YU,EUSC,Speed Control Equipment  
+1806,COXWELL STATION,BD,TUNIP,Operator Not In Position
+1807,SUMMERHILL STATION,YU,SUCOL,Collector Booth Alarm Activated
+1808,COLLEGE STATION,YU,SUUT,Unauthorized at Track Level
+1809,LAWRENCE WEST STATION,YU,MUATC,ATC Project
+1810,QUEEN STATION,YU,EUATC,ATC RC&S Equipment
+1811,UNION STATION,YU,EUECD,ECD / Line Mechanic Related Prob.
+1812,WELLESLEY STATION,YU,SUAP,Assault / Patron Involved
+1813,BATHURST STATION,BD,TUOS,Operator Overshot Platform
+1814,LAWRENCE EAST STATION,SRT,MRTO,Timeout
+1815,SHEPPARD STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1816,SHEPPARD STATION,YU,SUPOL,Held By Polce - Non-TTC Related
+1817,SUMMERHILL STATION,YU,PUTR,Rail Related Problem
+1818,CHESTER STATION,BD,SUEAS,Emergency Alarm Station Activation
+1819,EGLINTON STATION,YU,PUTWZ,Work Zone Problems - Track
+1820,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1821,BATHURST STATION,BD,SUDP,Disorderly Patron
+1822,SHEPPARD STATION,YU,PUCSC,Signal Control Problem - Signals
+1823,MCCOWAN STATION,SRT,ERTC,Train Control - VOBC
+1824,SHEPPARD STATION,YU,PUCSC,Signal Control Problem - Signals
+1825,YORK MILLS STATION,YU,PUTR,Rail Related Problem
+1826,FINCH STATION,YU,EUDO,Door Problems - Faulty Equipment
+1827,MCCOWAN STATION,SRT,MRO,Miscellaneous Other
+1828,YORK MILLS STATION,YU,PUTR,Rail Related Problem
+1829,QUEEN STATION,YU,MUSC,Miscellaneous Speed Control
+1830,DOWNSVIEW PARK STATION,YU,SUCOL,Collector Booth Alarm Activated
+1831,DAVISVILLE STATION,YU,EUSC,Speed Control Equipment  
+1832,SUMMERHILL STATION,YU,PUTR,Rail Related Problem
+1833,SUMMERHILL STATION,YU,PUTR,Rail Related Problem
+1834,DONLANDS STATION,BD,EUSC,Speed Control Equipment  
+1835,UNION STATION,YU,MUATC,ATC Project
+1836,KEELE STATION,BD,TUMVS,Operator Violated Signal
+1837,EGLINTON STATION,YU,TUSUP,Supervisory Error
+1838,GLENCAIRN STATION,YU,EUDO,Door Problems - Faulty Equipment
+1839,EGLINTON STATION,YU,EUBK,Brakes
+1840,BLOOR STATION,YU,SUDP,Disorderly Patron
+1841,SUMMERHILL STATION,YU,PUTR,Rail Related Problem
+1842,SUMMERHILL STATION,YU,PUSI,Signals or Related Components Failure 
+1843,COLLEGE STATION,YU,SUDP,Disorderly Patron
+1844,BLOOR STATION,YU,SUDP,Disorderly Patron
+1845,UNION STATION,YU,EUDO,Door Problems - Faulty Equipment
+1846,CASTLE FRANK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1847,KIPLING STATION,BD,TUNIP,Operator Not In Position
+1848,WARDEN STATION,BD,TUMVS,Operator Violated Signal
+1849,PAPE STATION,BD,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1850,EGLINTON STATION,YU,PUSTS,Signals - Train Stops
+1851,BATHURST STATION,BD,MUIS,Injured or ill Customer (In Station) - Transported
+1852,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+1853,ST CLAIR WEST STATION,YU,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1854,EGLINTON STATION,YU,EUDO,Door Problems - Faulty Equipment
+1855,LESLIE STATION,SHP,MUSC,Miscellaneous Speed Control
+1856,DUFFERIN STATION,BD,SUDP,Disorderly Patron
+1857,ROSEDALE STATION,YU,MUPLB,Fire/Smoke Plan B - Source TTC
+1858,ROSEDALE STATION,YU,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+1859,KENNEDY BD STATION,BD,MUSAN,Unsanitary Vehicle
+1860,VAUGHAN MC STATION,YU,MUATC,ATC Project
+1861,EGLINTON STATION,YU,SUDP,Disorderly Patron
+1862,SHEPPARD WEST STATION,YU,MUI,Injured or ill Customer (On Train) - Transported
+1863,GREENWOOD STATION,BD,EUSC,Speed Control Equipment  
+1864,QUEEN STATION,YU,EUYRD,Yard/Carhouse Related Problems
+1865,SHEPPARD-YONGE STATION,SHP,TUSC,Operator Overspeeding
+1866,QUEEN'S PARK STATION,YU,EUDO,Door Problems - Faulty Equipment
+1867,DUFFERIN STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1868,HIGH PARK STATION,BD,MUD,Door Problems - Passenger Related
+1869,KIPLING STATION,BD,TUMVS,Operator Violated Signal
+1870,VICTORIA PARK STATION,BD,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+1871,KENNEDY SRT STATION,SRT,ERTC,Train Control - VOBC
+1872,OLD MILL STATION,BD,EUDO,Door Problems - Faulty Equipment
+1873,WOODBINE STATION,BD,MUPLC,Fire/Smoke Plan C

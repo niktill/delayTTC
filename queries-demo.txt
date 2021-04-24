@@ -1,0 +1,158 @@
+psql:queries.sql:18: NOTICE:  view "monthdelays" does not exist, skipping
+DROP VIEW
+psql:queries.sql:19: NOTICE:  view "months" does not exist, skipping
+DROP VIEW
+psql:queries.sql:20: NOTICE:  view "revmonth" does not exist, skipping
+DROP VIEW
+psql:queries.sql:21: NOTICE:  view "q1" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+ month | year | delaycount | ridership | revenue
+-------+------+------------+-----------+----------
+     4 | 2020 |        791 |    205000 | 13663000
+     5 | 2020 |       1201 |    263000 | 14087000
+     6 | 2020 |       3910 |    345000 | 24823000
+(3 rows)
+
+psql:queries.sql:51: NOTICE:  table "codetypedelaytimes" does not exist, skipping
+DROP TABLE
+psql:queries.sql:52: NOTICE:  view "traincodedelaytimes" does not exist, skipping
+DROP VIEW
+psql:queries.sql:53: NOTICE:  view "streetcarcodedelaytimes" does not exist, skipping
+DROP VIEW
+psql:queries.sql:54: NOTICE:  view "buscodedelaytimes" does not exist, skipping
+DROP VIEW
+CREATE TABLE
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+INSERT 0 140
+CREATE VIEW
+ vehicletype |    description    | num_of_delays | sum_delay_time |  avg_delay_time
+-------------+-------------------+---------------+----------------+------------------
+ streetcar   | Mechanical        |           424 |           3742 | 8.82547169811321
+ train       | Disorderly Patron |           271 |           1175 | 4.33579335793358
+ bus         | Mechanical        |          1207 |          15527 |  12.864125932063
+(3 rows)
+
+ vehicletype |                 description                 | num_of_delays | sum_delay_time |  avg_delay_time
+-------------+---------------------------------------------+---------------+----------------+------------------
+ bus         | Diversion                                   |           145 |          17832 | 122.979310344828
+ train       | Priority One - Train in Contact With Person |             9 |            673 | 74.7777777777778
+ streetcar   | Diversion                                   |            25 |           1327 |            53.08
+(3 rows)
+
+        station         | count
+------------------------+-------
+ BLOOR STATION          |    14
+ YONGE BD STATION       |    10
+ DUFFERIN STATION       |    10
+ SPADINA BD STATION     |     9
+ EGLINTON STATION       |     9
+ PAPE STATION           |     8
+ KIPLING STATION        |     8
+ VAUGHAN MC STATION     |     7
+ SPADINA YUS STATION    |     7
+ BROADVIEW STATION      |     7
+ WARDEN STATION         |     6
+ OSSINGTON STATION      |     6
+ WOODBINE STATION       |     6
+ COXWELL STATION        |     6
+ WELLESLEY STATION      |     6
+ ST GEORGE YUS STATION  |     6
+ KENNEDY BD STATION     |     5
+ CHRISTIE STATION       |     5
+ CHESTER STATION        |     5
+ MAIN STREET STATION    |     5
+ ST GEORGE BD STATION   |     5
+ YORK MILLS STATION     |     5
+ LAWRENCE STATION       |     5
+ SHERBOURNE STATION     |     5
+ QUEEN STATION          |     5
+ VICTORIA PARK STATION  |     5
+ COLLEGE STATION        |     4
+ CASTLE FRANK STATION   |     4
+ DAVISVILLE STATION     |     4
+ DUNDAS WEST STATION    |     4
+ FINCH STATION          |     4
+ ST CLAIR WEST STATION  |     4
+ UNION STATION          |     4
+ YORKDALE STATION       |     4
+ WILSON STATION         |     3
+ SHEPPARD STATION       |     3
+ SHEPPARD WEST STATION  |     3
+ DUNDAS STATION         |     3
+ SUMMERHILL STATION     |     3
+ BATHURST STATION       |     3
+ QUEEN'S PARK STATION   |     3
+ ROSEDALE STATION       |     3
+ MUSEUM STATION         |     2
+ JANE STATION           |     2
+ RUNNYMEDE STATION      |     2
+ SHEPPARD-YONGE STATION |     2
+ ISLINGTON STATION      |     2
+ GREENWOOD STATION      |     2
+ ST ANDREW STATION      |     2
+ BAY STATION            |     2
+ FINCH WEST STATION     |     2
+ ST PATRICK STATION     |     2
+ EGLINTON WEST STATION  |     2
+ DUPONT STATION         |     2
+ LAWRENCE WEST STATION  |     2
+ PIONEER VILLAGE STATIO |     1
+ YORK UNIVERSITY STATIO |     1
+ UNION STATION TO KING  |     1
+ NORTH YORK CTR STATION |     1
+ LANSDOWNE STATION      |     1
+ KEELE STATION          |     1
+ HIGH PARK STATION      |     1
+ DONLANDS STATION       |     1
+ KING STATION           |     1
+ ST CLAIR STATION       |     1
+ OSGOODE STATION        |     1
+ GLENCAIRN STATION      |     1
+ BAYVIEW STATION        |     1
+ YONGE STATION          |     1
+(69 rows)
+
+psql:queries.sql:117: NOTICE:  table "vehiclemechanicaldelays" does not exist, skipping
+DROP TABLE
+psql:queries.sql:118: NOTICE:  view "streetcarmechanicaldelays" does not exist, skipping
+DROP VIEW
+psql:queries.sql:119: NOTICE:  view "trainmechanicaldelays" does not exist, skipping
+DROP VIEW
+psql:queries.sql:120: NOTICE:  view "busmechanicaldelays" does not exist, skipping
+DROP VIEW
+psql:queries.sql:121: NOTICE:  view "mechanicaldelays" does not exist, skipping
+DROP VIEW
+CREATE TABLE
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+INSERT 0 1173
+ vehiclenumber | num_of_mdelays | avg_days_bt_delays | number |   type
+---------------+----------------+--------------------+--------+-----------
+            18 |              7 |   9.16666666666667 |     18 | streetcar
+          1293 |              6 |                4.6 |   1293 | bus
+          3027 |              3 |               23.5 |   3027 | train
+          3203 |              3 |                 27 |   3203 | train
+(4 rows)
+
+   type    |       avg
+-----------+------------------
+ train     | 13.9883879781434
+ streetcar |  13.988387978142
+ bus       | 13.9883879781435
+(3 rows)
+
+CREATE VIEW
+ worst_rating | route | num_delays |      avg_delay
+--------------+-------+------------+---------------------
+            7 |    29 |         68 | 10.9852941176470588
+           56 |    12 |         14 | 38.4285714285714286
+           86 |    80 |          9 | 17.6666666666666667
+(3 rows)
